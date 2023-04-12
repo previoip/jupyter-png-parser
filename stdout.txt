@@ -1,5 +1,5 @@
-python kernel v : 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]
-prog start time : 2023-04-09T12:30:16.197827
+python version : 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]
+prog timestamp : 2023-04-12T14:07:47.999015
 
 
 -------------------------------------------------
@@ -18,7 +18,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005257129669189453 seconds
+elapsed time     : 0.001993894577026367 seconds
 -------------------------------------------------
 
 
@@ -38,7 +38,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0070018768310546875 seconds
+elapsed time     : 0.002780914306640625 seconds
 -------------------------------------------------
 
 
@@ -58,7 +58,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006099224090576172 seconds
+elapsed time     : 0.002405405044555664 seconds
 -------------------------------------------------
 
 
@@ -78,7 +78,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0047817230224609375 seconds
+elapsed time     : 0.002320528030395508 seconds
 -------------------------------------------------
 
 
@@ -98,7 +98,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0032639503479003906 seconds
+elapsed time     : 0.0020356178283691406 seconds
 -------------------------------------------------
 
 
@@ -118,7 +118,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0044863224029541016 seconds
+elapsed time     : 0.002044200897216797 seconds
 -------------------------------------------------
 
 
@@ -138,7 +138,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0044329166412353516 seconds
+elapsed time     : 0.002009868621826172 seconds
 -------------------------------------------------
 
 
@@ -160,7 +160,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008031368255615234 seconds
+elapsed time     : 0.0023365020751953125 seconds
 -------------------------------------------------
 
 
@@ -184,7 +184,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007664918899536133 seconds
+elapsed time     : 0.003020048141479492 seconds
 -------------------------------------------------
 
 
@@ -208,7 +208,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009943246841430664 seconds
+elapsed time     : 0.0033829212188720703 seconds
 -------------------------------------------------
 
 
@@ -230,7 +230,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008119344711303711 seconds
+elapsed time     : 0.00394749641418457 seconds
 -------------------------------------------------
 
 
@@ -250,7 +250,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0051670074462890625 seconds
+elapsed time     : 0.002008676528930664 seconds
 -------------------------------------------------
 
 
@@ -270,7 +270,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0049228668212890625 seconds
+elapsed time     : 0.0029997825622558594 seconds
 -------------------------------------------------
 
 
@@ -290,7 +290,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005141735076904297 seconds
+elapsed time     : 0.0022928714752197266 seconds
 -------------------------------------------------
 
 
@@ -310,7 +310,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004904747009277344 seconds
+elapsed time     : 0.004281520843505859 seconds
 -------------------------------------------------
 
 
@@ -330,7 +330,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00685429573059082 seconds
+elapsed time     : 0.0019996166229248047 seconds
 -------------------------------------------------
 
 
@@ -350,7 +350,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006270408630371094 seconds
+elapsed time     : 0.0025107860565185547 seconds
 -------------------------------------------------
 
 
@@ -370,7 +370,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00483393669128418 seconds
+elapsed time     : 0.0022792816162109375 seconds
 -------------------------------------------------
 
 
@@ -390,7 +390,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00537872314453125 seconds
+elapsed time     : 0.0019888877868652344 seconds
 -------------------------------------------------
 
 
@@ -410,7 +410,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00471949577331543 seconds
+elapsed time     : 0.001997232437133789 seconds
 -------------------------------------------------
 
 
@@ -430,7 +430,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0 seconds
+elapsed time     : 0.0022444725036621094 seconds
 -------------------------------------------------
 
 
@@ -450,7 +450,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005007743835449219 seconds
+elapsed time     : 0.0016863346099853516 seconds
 -------------------------------------------------
 
 
@@ -472,7 +472,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007551431655883789 seconds
+elapsed time     : 0.0030107498168945312 seconds
 -------------------------------------------------
 
 
@@ -496,7 +496,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00902867317199707 seconds
+elapsed time     : 0.0020132064819335938 seconds
 -------------------------------------------------
 
 
@@ -520,7 +520,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007599830627441406 seconds
+elapsed time     : 0.003009319305419922 seconds
 -------------------------------------------------
 
 
@@ -542,7 +542,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0018618106842041016 seconds
+elapsed time     : 0.0035552978515625 seconds
 -------------------------------------------------
 
 
@@ -562,7 +562,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004481077194213867 seconds
+elapsed time     : 0.0017669200897216797 seconds
 -------------------------------------------------
 
 
@@ -582,7 +582,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015685558319091797 seconds
+elapsed time     : 0.002000570297241211 seconds
 -------------------------------------------------
 
 
@@ -602,7 +602,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006445407867431641 seconds
+elapsed time     : 0.0025115013122558594 seconds
 -------------------------------------------------
 
 
@@ -622,7 +622,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007739067077636719 seconds
+elapsed time     : 0.0025322437286376953 seconds
 -------------------------------------------------
 
 
@@ -642,7 +642,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004603147506713867 seconds
+elapsed time     : 0.0023436546325683594 seconds
 -------------------------------------------------
 
 
@@ -662,7 +662,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0038192272186279297 seconds
+elapsed time     : 0.002631664276123047 seconds
 -------------------------------------------------
 
 
@@ -682,7 +682,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00433349609375 seconds
+elapsed time     : 0.0010063648223876953 seconds
 -------------------------------------------------
 
 
@@ -702,7 +702,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0022242069244384766 seconds
+elapsed time     : 0.0030143260955810547 seconds
 -------------------------------------------------
 
 
@@ -724,7 +724,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0065996646881103516 seconds
+elapsed time     : 0.0034508705139160156 seconds
 -------------------------------------------------
 
 
@@ -746,7 +746,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009075403213500977 seconds
+elapsed time     : 0.0025146007537841797 seconds
 -------------------------------------------------
 
 
@@ -768,7 +768,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005165815353393555 seconds
+elapsed time     : 0.0034742355346679688 seconds
 -------------------------------------------------
 
 
@@ -790,7 +790,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007363080978393555 seconds
+elapsed time     : 0.002773761749267578 seconds
 -------------------------------------------------
 
 
@@ -812,7 +812,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009529590606689453 seconds
+elapsed time     : 0.0028464794158935547 seconds
 -------------------------------------------------
 
 
@@ -836,7 +836,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.013513803482055664 seconds
+elapsed time     : 0.003388643264770508 seconds
 -------------------------------------------------
 
 
@@ -860,7 +860,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.010107040405273438 seconds
+elapsed time     : 0.002725839614868164 seconds
 -------------------------------------------------
 
 
@@ -884,7 +884,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008857488632202148 seconds
+elapsed time     : 0.004515171051025391 seconds
 -------------------------------------------------
 
 
@@ -908,7 +908,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0 seconds
+elapsed time     : 0.0035178661346435547 seconds
 -------------------------------------------------
 
 
@@ -932,7 +932,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00657200813293457 seconds
+elapsed time     : 0.0026569366455078125 seconds
 -------------------------------------------------
 
 
@@ -958,7 +958,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0076007843017578125 seconds
+elapsed time     : 0.004105806350708008 seconds
 -------------------------------------------------
 
 
@@ -982,7 +982,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.011508464813232422 seconds
+elapsed time     : 0.004341840744018555 seconds
 -------------------------------------------------
 
 
@@ -1004,7 +1004,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006803035736083984 seconds
+elapsed time     : 0.002576112747192383 seconds
 -------------------------------------------------
 
 
@@ -1026,7 +1026,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006047964096069336 seconds
+elapsed time     : 0.002002716064453125 seconds
 -------------------------------------------------
 
 
@@ -1048,7 +1048,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008234262466430664 seconds
+elapsed time     : 0.0026051998138427734 seconds
 -------------------------------------------------
 
 
@@ -1070,7 +1070,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007962942123413086 seconds
+elapsed time     : 0.0033822059631347656 seconds
 -------------------------------------------------
 
 
@@ -1094,7 +1094,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.011658430099487305 seconds
+elapsed time     : 0.002925395965576172 seconds
 -------------------------------------------------
 
 
@@ -1116,7 +1116,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005267620086669922 seconds
+elapsed time     : 0.0031270980834960938 seconds
 -------------------------------------------------
 
 
@@ -1140,7 +1140,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008563041687011719 seconds
+elapsed time     : 0.0029993057250976562 seconds
 -------------------------------------------------
 
 
@@ -1160,7 +1160,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035974979400634766 seconds
+elapsed time     : 0.0020897388458251953 seconds
 -------------------------------------------------
 
 
@@ -1182,7 +1182,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005368232727050781 seconds
+elapsed time     : 0.0030333995819091797 seconds
 -------------------------------------------------
 
 
@@ -1202,7 +1202,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0052835941314697266 seconds
+elapsed time     : 0.0023488998413085938 seconds
 -------------------------------------------------
 
 
@@ -1234,7 +1234,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.013699531555175781 seconds
+elapsed time     : 0.004393577575683594 seconds
 -------------------------------------------------
 
 
@@ -1266,7 +1266,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.012944221496582031 seconds
+elapsed time     : 0.005115509033203125 seconds
 -------------------------------------------------
 
 
@@ -1298,7 +1298,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.013727188110351562 seconds
+elapsed time     : 0.004541873931884766 seconds
 -------------------------------------------------
 
 
@@ -1330,7 +1330,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009714365005493164 seconds
+elapsed time     : 0.004514932632446289 seconds
 -------------------------------------------------
 
 
@@ -1362,7 +1362,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.012535810470581055 seconds
+elapsed time     : 0.005102634429931641 seconds
 -------------------------------------------------
 
 
@@ -1394,7 +1394,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.019895553588867188 seconds
+elapsed time     : 0.005672931671142578 seconds
 -------------------------------------------------
 
 
@@ -1426,7 +1426,7 @@ parsed chunks:
   [009] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.013414144515991211 seconds
+elapsed time     : 0.005106210708618164 seconds
 -------------------------------------------------
 
 
@@ -1445,7 +1445,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006859540939331055 seconds
+elapsed time     : 0.0029976367950439453 seconds
 -------------------------------------------------
 
 
@@ -1463,7 +1463,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005664348602294922 seconds
+elapsed time     : 0.0022516250610351562 seconds
 -------------------------------------------------
 
 
@@ -1481,7 +1481,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005599260330200195 seconds
+elapsed time     : 0.002000093460083008 seconds
 -------------------------------------------------
 
 
@@ -1499,7 +1499,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025968551635742188 seconds
+elapsed time     : 0.002077341079711914 seconds
 -------------------------------------------------
 
 
@@ -1517,7 +1517,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004305124282836914 seconds
+elapsed time     : 0.0020029544830322266 seconds
 -------------------------------------------------
 
 
@@ -1535,7 +1535,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00400996208190918 seconds
+elapsed time     : 0.0010066032409667969 seconds
 -------------------------------------------------
 
 
@@ -1553,7 +1553,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005728244781494141 seconds
+elapsed time     : 0.0010104179382324219 seconds
 -------------------------------------------------
 
 
@@ -1571,7 +1571,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005051374435424805 seconds
+elapsed time     : 0.00099945068359375 seconds
 -------------------------------------------------
 
 
@@ -1589,7 +1589,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004987955093383789 seconds
+elapsed time     : 0.0009992122650146484 seconds
 -------------------------------------------------
 
 
@@ -1607,7 +1607,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003577709197998047 seconds
+elapsed time     : 0.0024068355560302734 seconds
 -------------------------------------------------
 
 
@@ -1625,7 +1625,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0038063526153564453 seconds
+elapsed time     : 0.0019974708557128906 seconds
 -------------------------------------------------
 
 
@@ -1643,7 +1643,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006971597671508789 seconds
+elapsed time     : 0.0010123252868652344 seconds
 -------------------------------------------------
 
 
@@ -1663,7 +1663,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.01181793212890625 seconds
+elapsed time     : 0.0022504329681396484 seconds
 -------------------------------------------------
 
 
@@ -1683,7 +1683,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008490800857543945 seconds
+elapsed time     : 0.002408742904663086 seconds
 -------------------------------------------------
 
 
@@ -1705,7 +1705,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.01016998291015625 seconds
+elapsed time     : 0.002009153366088867 seconds
 -------------------------------------------------
 
 
@@ -1725,7 +1725,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004192352294921875 seconds
+elapsed time     : 0.002016782760620117 seconds
 -------------------------------------------------
 
 
@@ -1745,7 +1745,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008436918258666992 seconds
+elapsed time     : 0.0020024776458740234 seconds
 -------------------------------------------------
 
 
@@ -1767,7 +1767,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006426572799682617 seconds
+elapsed time     : 0.002504587173461914 seconds
 -------------------------------------------------
 
 
@@ -1787,7 +1787,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003118276596069336 seconds
+elapsed time     : 0.002533435821533203 seconds
 -------------------------------------------------
 
 
@@ -1807,7 +1807,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005279064178466797 seconds
+elapsed time     : 0.001505136489868164 seconds
 -------------------------------------------------
 
 
@@ -1829,7 +1829,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0057070255279541016 seconds
+elapsed time     : 0.003013134002685547 seconds
 -------------------------------------------------
 
 
@@ -1849,7 +1849,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003749847412109375 seconds
+elapsed time     : 0.001522064208984375 seconds
 -------------------------------------------------
 
 
@@ -1869,7 +1869,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0023987293243408203 seconds
+elapsed time     : 0.0015635490417480469 seconds
 -------------------------------------------------
 
 
@@ -1891,7 +1891,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00547027587890625 seconds
+elapsed time     : 0.0025038719177246094 seconds
 -------------------------------------------------
 
 
@@ -1911,7 +1911,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0070683956146240234 seconds
+elapsed time     : 0.0010008811950683594 seconds
 -------------------------------------------------
 
 
@@ -1931,7 +1931,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004353761672973633 seconds
+elapsed time     : 0.002016782760620117 seconds
 -------------------------------------------------
 
 
@@ -1953,7 +1953,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007196903228759766 seconds
+elapsed time     : 0.0017688274383544922 seconds
 -------------------------------------------------
 
 
@@ -1973,7 +1973,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005125999450683594 seconds
+elapsed time     : 0.002351045608520508 seconds
 -------------------------------------------------
 
 
@@ -1993,7 +1993,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0071256160736083984 seconds
+elapsed time     : 0.004004716873168945 seconds
 -------------------------------------------------
 
 
@@ -2015,7 +2015,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0061397552490234375 seconds
+elapsed time     : 0.0015206336975097656 seconds
 -------------------------------------------------
 
 
@@ -2035,7 +2035,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006137371063232422 seconds
+elapsed time     : 0.0015709400177001953 seconds
 -------------------------------------------------
 
 
@@ -2055,7 +2055,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002280712127685547 seconds
+elapsed time     : 0.0019996166229248047 seconds
 -------------------------------------------------
 
 
@@ -2077,7 +2077,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007077217102050781 seconds
+elapsed time     : 0.0025260448455810547 seconds
 -------------------------------------------------
 
 
@@ -2099,7 +2099,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00728154182434082 seconds
+elapsed time     : 0.0020575523376464844 seconds
 -------------------------------------------------
 
 
@@ -2125,7 +2125,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.010668516159057617 seconds
+elapsed time     : 0.003881216049194336 seconds
 -------------------------------------------------
 
 
@@ -2151,7 +2151,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020914077758789062 seconds
+elapsed time     : 0.0038940906524658203 seconds
 -------------------------------------------------
 
 
@@ -2357,7 +2357,7 @@ parsed chunks:
   [096] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.12143135070800781 seconds
+elapsed time     : 0.044281959533691406 seconds
 -------------------------------------------------
 
 
@@ -2833,7 +2833,7 @@ parsed chunks:
   [231] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.29441070556640625 seconds
+elapsed time     : 0.11594605445861816 seconds
 -------------------------------------------------
 
 
@@ -2851,7 +2851,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004228353500366211 seconds
+elapsed time     : 0.001984119415283203 seconds
 -------------------------------------------------
 
 
@@ -2873,7 +2873,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.010376691818237305 seconds
+elapsed time     : 0.0029973983764648438 seconds
 -------------------------------------------------
 
 
@@ -2895,7 +2895,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.011569976806640625 seconds
+elapsed time     : 0.003002166748046875 seconds
 -------------------------------------------------
 
 
@@ -2917,7 +2917,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009079933166503906 seconds
+elapsed time     : 0.003011465072631836 seconds
 -------------------------------------------------
 
 
@@ -2939,7 +2939,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007052898406982422 seconds
+elapsed time     : 0.0025086402893066406 seconds
 -------------------------------------------------
 
 
@@ -2961,7 +2961,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005972862243652344 seconds
+elapsed time     : 0.0040149688720703125 seconds
 -------------------------------------------------
 
 
@@ -2983,7 +2983,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008034944534301758 seconds
+elapsed time     : 0.004294633865356445 seconds
 -------------------------------------------------
 
 
@@ -3007,7 +3007,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008176803588867188 seconds
+elapsed time     : 0.003485441207885742 seconds
 -------------------------------------------------
 
 
@@ -3031,7 +3031,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007640361785888672 seconds
+elapsed time     : 0.0032987594604492188 seconds
 -------------------------------------------------
 
 
@@ -3055,7 +3055,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0075855255126953125 seconds
+elapsed time     : 0.0029990673065185547 seconds
 -------------------------------------------------
 
 
@@ -3079,7 +3079,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008864164352416992 seconds
+elapsed time     : 0.004175424575805664 seconds
 -------------------------------------------------
 
 
@@ -3103,7 +3103,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008099794387817383 seconds
+elapsed time     : 0.004477262496948242 seconds
 -------------------------------------------------
 
 
@@ -3127,7 +3127,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.011501789093017578 seconds
+elapsed time     : 0.003958940505981445 seconds
 -------------------------------------------------
 
 
@@ -3151,7 +3151,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008090019226074219 seconds
+elapsed time     : 0.0029265880584716797 seconds
 -------------------------------------------------
 
 
@@ -3175,7 +3175,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008635759353637695 seconds
+elapsed time     : 0.004795551300048828 seconds
 -------------------------------------------------
 
 
@@ -3199,7 +3199,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006827831268310547 seconds
+elapsed time     : 0.0034987926483154297 seconds
 -------------------------------------------------
 
 
@@ -3223,7 +3223,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002739429473876953 seconds
+elapsed time     : 0.005059719085693359 seconds
 -------------------------------------------------
 
 
@@ -3247,7 +3247,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006892681121826172 seconds
+elapsed time     : 0.0040128231048583984 seconds
 -------------------------------------------------
 
 
@@ -3271,7 +3271,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005715847015380859 seconds
+elapsed time     : 0.0025908946990966797 seconds
 -------------------------------------------------
 
 
@@ -3295,7 +3295,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.01775503158569336 seconds
+elapsed time     : 0.0020012855529785156 seconds
 -------------------------------------------------
 
 
@@ -3319,7 +3319,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0092010498046875 seconds
+elapsed time     : 0.004994869232177734 seconds
 -------------------------------------------------
 
 
@@ -3343,7 +3343,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008510589599609375 seconds
+elapsed time     : 0.003271341323852539 seconds
 -------------------------------------------------
 
 
@@ -3367,7 +3367,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006299257278442383 seconds
+elapsed time     : 0.0030138492584228516 seconds
 -------------------------------------------------
 
 
@@ -3391,7 +3391,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0053408145904541016 seconds
+elapsed time     : 0.0030541419982910156 seconds
 -------------------------------------------------
 
 
@@ -3415,7 +3415,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007696628570556641 seconds
+elapsed time     : 0.0020003318786621094 seconds
 -------------------------------------------------
 
 
@@ -3439,7 +3439,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007210731506347656 seconds
+elapsed time     : 0.0034677982330322266 seconds
 -------------------------------------------------
 
 
@@ -3463,7 +3463,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009874582290649414 seconds
+elapsed time     : 0.004258155822753906 seconds
 -------------------------------------------------
 
 
@@ -3487,7 +3487,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009684324264526367 seconds
+elapsed time     : 0.004041433334350586 seconds
 -------------------------------------------------
 
 
@@ -3511,7 +3511,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008278369903564453 seconds
+elapsed time     : 0.012291908264160156 seconds
 -------------------------------------------------
 
 
@@ -3535,7 +3535,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008602142333984375 seconds
+elapsed time     : 0.0035085678100585938 seconds
 -------------------------------------------------
 
 
@@ -3559,7 +3559,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009048223495483398 seconds
+elapsed time     : 0.002997875213623047 seconds
 -------------------------------------------------
 
 
@@ -3583,7 +3583,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008081674575805664 seconds
+elapsed time     : 0.004427194595336914 seconds
 -------------------------------------------------
 
 
@@ -3607,7 +3607,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007785320281982422 seconds
+elapsed time     : 0.003358125686645508 seconds
 -------------------------------------------------
 
 
@@ -3631,7 +3631,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005089282989501953 seconds
+elapsed time     : 0.0030007362365722656 seconds
 -------------------------------------------------
 
 
@@ -3655,7 +3655,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008651018142700195 seconds
+elapsed time     : 0.003014802932739258 seconds
 -------------------------------------------------
 
 
@@ -3679,7 +3679,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0066144466400146484 seconds
+elapsed time     : 0.0025086402893066406 seconds
 -------------------------------------------------
 
 
@@ -3703,7 +3703,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006701231002807617 seconds
+elapsed time     : 0.004007577896118164 seconds
 -------------------------------------------------
 
 
@@ -3727,7 +3727,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005112648010253906 seconds
+elapsed time     : 0.0031821727752685547 seconds
 -------------------------------------------------
 
 
@@ -3751,7 +3751,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009994745254516602 seconds
+elapsed time     : 0.003786802291870117 seconds
 -------------------------------------------------
 
 
@@ -3775,7 +3775,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009543895721435547 seconds
+elapsed time     : 0.0036907196044921875 seconds
 -------------------------------------------------
 
 
@@ -3799,7 +3799,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.009047985076904297 seconds
+elapsed time     : 0.0023267269134521484 seconds
 -------------------------------------------------
 
 
@@ -3823,7 +3823,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007905244827270508 seconds
+elapsed time     : 0.003400087356567383 seconds
 -------------------------------------------------
 
 
@@ -3847,7 +3847,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007227420806884766 seconds
+elapsed time     : 0.0030536651611328125 seconds
 -------------------------------------------------
 
 
@@ -3871,7 +3871,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006142139434814453 seconds
+elapsed time     : 0.0030410289764404297 seconds
 -------------------------------------------------
 
 
@@ -3895,7 +3895,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008239269256591797 seconds
+elapsed time     : 0.003010272979736328 seconds
 -------------------------------------------------
 
 
@@ -3921,7 +3921,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.012750387191772461 seconds
+elapsed time     : 0.004522800445556641 seconds
 -------------------------------------------------
 
 
@@ -3945,7 +3945,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007543087005615234 seconds
+elapsed time     : 0.004439830780029297 seconds
 -------------------------------------------------
 
 
@@ -3971,7 +3971,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008680343627929688 seconds
+elapsed time     : 0.0046727657318115234 seconds
 -------------------------------------------------
 
 
@@ -3995,7 +3995,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008183002471923828 seconds
+elapsed time     : 0.0030014514923095703 seconds
 -------------------------------------------------
 
 
@@ -4019,7 +4019,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005107879638671875 seconds
+elapsed time     : 0.0030870437622070312 seconds
 -------------------------------------------------
 
 
@@ -4045,7 +4045,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.010877370834350586 seconds
+elapsed time     : 0.004316091537475586 seconds
 -------------------------------------------------
 
 
@@ -4071,7 +4071,7 @@ parsed chunks:
   [006] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.010308980941772461 seconds
+elapsed time     : 0.030450820922851562 seconds
 -------------------------------------------------
 
 
@@ -4093,7 +4093,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005220174789428711 seconds
+elapsed time     : 0.002166271209716797 seconds
 -------------------------------------------------
 
 
@@ -4113,7 +4113,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004009723663330078 seconds
+elapsed time     : 0.0019941329956054688 seconds
 -------------------------------------------------
 
 
@@ -4133,7 +4133,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008130073547363281 seconds
+elapsed time     : 0.0030362606048583984 seconds
 -------------------------------------------------
 
 
@@ -4155,7 +4155,7 @@ parsed chunks:
   [004] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008368253707885742 seconds
+elapsed time     : 0.002540111541748047 seconds
 -------------------------------------------------
 
 
@@ -4179,7 +4179,7 @@ parsed chunks:
   [005] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.010352134704589844 seconds
+elapsed time     : 0.0027313232421875 seconds
 -------------------------------------------------
 
 
@@ -4199,7 +4199,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008928060531616211 seconds
+elapsed time     : 0.0020711421966552734 seconds
 -------------------------------------------------
 
 
@@ -4220,7 +4220,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.004696846008300781 seconds
+elapsed time     : 0.0020036697387695312 seconds
 -------------------------------------------------
 
 
@@ -4241,7 +4241,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006257772445678711 seconds
+elapsed time     : 0.0022063255310058594 seconds
 -------------------------------------------------
 
 
@@ -4262,7 +4262,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005097389221191406 seconds
+elapsed time     : 0.002088308334350586 seconds
 -------------------------------------------------
 
 
@@ -4283,7 +4283,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0056340694427490234 seconds
+elapsed time     : 0.0020122528076171875 seconds
 -------------------------------------------------
 
 
@@ -4304,7 +4304,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.005536079406738281 seconds
+elapsed time     : 0.002850055694580078 seconds
 -------------------------------------------------
 
 
@@ -4325,7 +4325,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0036840438842773438 seconds
+elapsed time     : 0.0033881664276123047 seconds
 -------------------------------------------------
 
 
@@ -4343,7 +4343,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0033550262451171875 seconds
+elapsed time     : 0.0010077953338623047 seconds
 -------------------------------------------------
 
 
@@ -4364,7 +4364,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005468606948852539 seconds
+elapsed time     : 0.0015799999237060547 seconds
 -------------------------------------------------
 
 
@@ -4382,7 +4382,7 @@ parsed chunks:
   [000] - CT_IHDR(is_parsed=True, chunk_size=10, chunk_type=b'IHDR', chunk_crc=b'\x00\x00\x00\x93', width=32, height=32, bit_depth=4, color_type=0, compression_method=0, filter_method=0, interlace_method=0, color_type_info='')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.5712611675262451 seconds
+elapsed time     : 0.2778792381286621 seconds
 -------------------------------------------------
 
 
@@ -4403,7 +4403,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0056264400482177734 seconds
+elapsed time     : 0.003011941909790039 seconds
 -------------------------------------------------
 
 
@@ -4424,7 +4424,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008088350296020508 seconds
+elapsed time     : 0.0019330978393554688 seconds
 -------------------------------------------------
 
 
@@ -4445,7 +4445,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.008581399917602539 seconds
+elapsed time     : 0.002051115036010742 seconds
 -------------------------------------------------
 
 
@@ -4466,7 +4466,7 @@ parsed chunks:
   [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0060863494873046875 seconds
+elapsed time     : 0.002016305923461914 seconds
 -------------------------------------------------
 
 
@@ -4484,7 +4484,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00518035888671875 seconds
+elapsed time     : 0.002891063690185547 seconds
 -------------------------------------------------
 
 
@@ -4502,7 +4502,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004088878631591797 seconds
+elapsed time     : 0.0027475357055664062 seconds
 -------------------------------------------------
 
 
@@ -4520,7 +4520,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006867408752441406 seconds
+elapsed time     : 0.002062082290649414 seconds
 -------------------------------------------------
 
 
@@ -4538,7 +4538,7 @@ parsed chunks:
   [002] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0027730464935302734 seconds
+elapsed time     : 0.002213001251220703 seconds
 -------------------------------------------------
 
 
@@ -4546,4 +4546,4 @@ elapsed time     : 0.0027730464935302734 seconds
 some stats:
   - total file parsed   : 176
   - inferred total size : 99926 bytes
-  - total elapsed time  : 2.1944212913513184 seconds
+  - total elapsed time  : 0.9660029411315918 seconds

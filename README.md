@@ -1,2 +1,1 @@
-# jupyter_png_parser
- 
+# PNG Parser in pure python
