@@ -1,5 +1,5 @@
 python version : 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]
-prog timestamp : 2023-04-15T13:13:13.427702
+prog timestamp : 2023-04-15T16:34:08.083332
 
 
 -------------------------------------------------
@@ -23,7 +23,7 @@ packing b'IDAT'; 144 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021224021911621094 seconds
+elapsed time     : 0.0015132427215576172 seconds
 -------------------------------------------------
 
 
@@ -48,7 +48,7 @@ packing b'IDAT'; 81 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002454042434692383 seconds
+elapsed time     : 0.0019981861114501953 seconds
 -------------------------------------------------
 
 
@@ -73,7 +73,7 @@ packing b'IDAT'; 174 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021240711212158203 seconds
+elapsed time     : 0.0016047954559326172 seconds
 -------------------------------------------------
 
 
@@ -98,7 +98,7 @@ packing b'IDAT'; 181 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015060901641845703 seconds
+elapsed time     : 0.001996755599975586 seconds
 -------------------------------------------------
 
 
@@ -123,7 +123,7 @@ packing b'IDAT'; 226 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025103092193603516 seconds
+elapsed time     : 0.002540111541748047 seconds
 -------------------------------------------------
 
 
@@ -148,7 +148,7 @@ packing b'IDAT'; 242 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019996166229248047 seconds
+elapsed time     : 0.0009984970092773438 seconds
 -------------------------------------------------
 
 
@@ -173,7 +173,7 @@ packing b'IDAT'; 522 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002204418182373047 seconds
+elapsed time     : 0.0020003318786621094 seconds
 -------------------------------------------------
 
 
@@ -201,7 +201,7 @@ packing b'IDAT'; 41 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020198822021484375 seconds
+elapsed time     : 0.002999544143676758 seconds
 -------------------------------------------------
 
 
@@ -232,7 +232,7 @@ packing b'IDAT'; 81 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030066967010498047 seconds
+elapsed time     : 0.00262451171875 seconds
 -------------------------------------------------
 
 
@@ -263,7 +263,7 @@ packing b'IDAT'; 182 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034186840057373047 seconds
+elapsed time     : 0.0030014514923095703 seconds
 -------------------------------------------------
 
 
@@ -291,7 +291,7 @@ packing b'IDAT'; 674 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024385452270507812 seconds
+elapsed time     : 0.002359628677368164 seconds
 -------------------------------------------------
 
 
@@ -316,7 +316,7 @@ packing b'IDAT'; 141 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002130746841430664 seconds
+elapsed time     : 0.0020079612731933594 seconds
 -------------------------------------------------
 
 
@@ -341,7 +341,7 @@ packing b'IDAT'; 2782 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020415782928466797 seconds
+elapsed time     : 0.0027260780334472656 seconds
 -------------------------------------------------
 
 
@@ -366,7 +366,7 @@ packing b'IDAT'; 288 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0012714862823486328 seconds
+elapsed time     : 0.0025191307067871094 seconds
 -------------------------------------------------
 
 
@@ -391,7 +391,7 @@ packing b'IDAT'; 4107 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002136707305908203 seconds
+elapsed time     : 0.0028417110443115234 seconds
 -------------------------------------------------
 
 
@@ -416,7 +416,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020477771759033203 seconds
+elapsed time     : 0.0020101070404052734 seconds
 -------------------------------------------------
 
 
@@ -441,7 +441,7 @@ packing b'IDAT'; 31 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002032041549682617 seconds
+elapsed time     : 0.0020034313201904297 seconds
 -------------------------------------------------
 
 
@@ -466,7 +466,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002547740936279297 seconds
+elapsed time     : 0.0026204586029052734 seconds
 -------------------------------------------------
 
 
@@ -491,7 +491,7 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0017764568328857422 seconds
+elapsed time     : 0.002515554428100586 seconds
 -------------------------------------------------
 
 
@@ -516,7 +516,7 @@ packing b'IDAT'; 94 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0012125968933105469 seconds
+elapsed time     : 0.0020029544830322266 seconds
 -------------------------------------------------
 
 
@@ -541,7 +541,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002332925796508789 seconds
+elapsed time     : 0.00200653076171875 seconds
 -------------------------------------------------
 
 
@@ -566,7 +566,7 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0011005401611328125 seconds
+elapsed time     : 0.002006053924560547 seconds
 -------------------------------------------------
 
 
@@ -594,7 +594,7 @@ packing b'IDAT'; 21 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015196800231933594 seconds
+elapsed time     : 0.002234220504760742 seconds
 -------------------------------------------------
 
 
@@ -625,7 +625,7 @@ packing b'IDAT'; 34 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034449100494384766 seconds
+elapsed time     : 0.0035202503204345703 seconds
 -------------------------------------------------
 
 
@@ -656,7 +656,7 @@ packing b'IDAT'; 71 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003635883331298828 seconds
+elapsed time     : 0.0035207271575927734 seconds
 -------------------------------------------------
 
 
@@ -684,7 +684,7 @@ packing b'IDAT'; 433 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0041120052337646484 seconds
+elapsed time     : 0.004033327102661133 seconds
 -------------------------------------------------
 
 
@@ -709,7 +709,7 @@ packing b'IDAT'; 53 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002003908157348633 seconds
+elapsed time     : 0.002018451690673828 seconds
 -------------------------------------------------
 
 
@@ -734,7 +734,7 @@ packing b'IDAT'; 2133 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024728775024414062 seconds
+elapsed time     : 0.002518892288208008 seconds
 -------------------------------------------------
 
 
@@ -759,7 +759,7 @@ packing b'IDAT'; 111 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020761489868164062 seconds
+elapsed time     : 0.0035812854766845703 seconds
 -------------------------------------------------
 
 
@@ -784,7 +784,7 @@ packing b'IDAT'; 3362 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002009153366088867 seconds
+elapsed time     : 0.0020055770874023438 seconds
 -------------------------------------------------
 
 
@@ -809,7 +809,7 @@ packing b'IDAT'; 141 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002143383026123047 seconds
+elapsed time     : 0.0020761489868164062 seconds
 -------------------------------------------------
 
 
@@ -834,7 +834,7 @@ packing b'IDAT'; 2782 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025131702423095703 seconds
+elapsed time     : 0.002607107162475586 seconds
 -------------------------------------------------
 
 
@@ -859,7 +859,7 @@ packing b'IDAT'; 111 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015058517456054688 seconds
+elapsed time     : 0.0014371871948242188 seconds
 -------------------------------------------------
 
 
@@ -884,7 +884,7 @@ packing b'IDAT'; 3362 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029871463775634766 seconds
+elapsed time     : 0.0035886764526367188 seconds
 -------------------------------------------------
 
 
@@ -912,7 +912,7 @@ packing b'IDAT'; 53 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0037932395935058594 seconds
+elapsed time     : 0.002002239227294922 seconds
 -------------------------------------------------
 
 
@@ -940,7 +940,7 @@ packing b'IDAT'; 2133 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020112991333007812 seconds
+elapsed time     : 0.002373218536376953 seconds
 -------------------------------------------------
 
 
@@ -968,7 +968,7 @@ packing b'IDAT'; 111 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025207996368408203 seconds
+elapsed time     : 0.0034253597259521484 seconds
 -------------------------------------------------
 
 
@@ -996,7 +996,7 @@ packing b'IDAT'; 3362 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029370784759521484 seconds
+elapsed time     : 0.0029990673065185547 seconds
 -------------------------------------------------
 
 
@@ -1024,7 +1024,7 @@ packing b'IDAT'; 1397 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0026781558990478516 seconds
+elapsed time     : 0.00200653076171875 seconds
 -------------------------------------------------
 
 
@@ -1055,7 +1055,7 @@ packing b'IDAT'; 687 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003055095672607422 seconds
+elapsed time     : 0.025149822235107422 seconds
 -------------------------------------------------
 
 
@@ -1086,7 +1086,7 @@ packing b'IDAT'; 295 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004171609878540039 seconds
+elapsed time     : 0.003149747848510742 seconds
 -------------------------------------------------
 
 
@@ -1117,7 +1117,7 @@ packing b'IDAT'; 235 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003500699996948242 seconds
+elapsed time     : 0.0030601024627685547 seconds
 -------------------------------------------------
 
 
@@ -1148,7 +1148,7 @@ packing b'IDAT'; 123 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004755496978759766 seconds
+elapsed time     : 0.0024993419647216797 seconds
 -------------------------------------------------
 
 
@@ -1179,7 +1179,7 @@ packing b'IDAT'; 615 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004861593246459961 seconds
+elapsed time     : 0.003905773162841797 seconds
 -------------------------------------------------
 
 
@@ -1213,7 +1213,7 @@ packing b'IDAT'; 71 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030939579010009766 seconds
+elapsed time     : 0.004019498825073242 seconds
 -------------------------------------------------
 
 
@@ -1244,7 +1244,7 @@ packing b'IDAT'; 433 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002767801284790039 seconds
+elapsed time     : 0.004514932632446289 seconds
 -------------------------------------------------
 
 
@@ -1268,11 +1268,12 @@ repacking parsed result
 packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'tIME'; 7 bytes
+WARNING! Exception Raised: pack expected 5 items for packing (got 6)
 packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0032880306243896484 seconds
+elapsed time     : 0.0025136470794677734 seconds
 -------------------------------------------------
 
 
@@ -1296,11 +1297,12 @@ repacking parsed result
 packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'tIME'; 7 bytes
+WARNING! Exception Raised: pack expected 5 items for packing (got 6)
 packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0022535324096679688 seconds
+elapsed time     : 0.0035140514373779297 seconds
 -------------------------------------------------
 
 
@@ -1324,11 +1326,12 @@ repacking parsed result
 packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'tIME'; 7 bytes
+WARNING! Exception Raised: pack expected 5 items for packing (got 6)
 packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0028493404388427734 seconds
+elapsed time     : 0.0025005340576171875 seconds
 -------------------------------------------------
 
 
@@ -1356,7 +1359,7 @@ packing b'IDAT'; 126 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030138492584228516 seconds
+elapsed time     : 0.002012014389038086 seconds
 -------------------------------------------------
 
 
@@ -1387,7 +1390,7 @@ packing b'IDAT'; 75 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030069351196289062 seconds
+elapsed time     : 0.003024578094482422 seconds
 -------------------------------------------------
 
 
@@ -1415,7 +1418,7 @@ packing b'IDAT'; 98 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0026988983154296875 seconds
+elapsed time     : 0.002008199691772461 seconds
 -------------------------------------------------
 
 
@@ -1446,7 +1449,7 @@ packing b'IDAT'; 75 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004015922546386719 seconds
+elapsed time     : 0.003902435302734375 seconds
 -------------------------------------------------
 
 
@@ -1471,7 +1474,7 @@ packing b'IDAT'; 76 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021436214447021484 seconds
+elapsed time     : 0.0019991397857666016 seconds
 -------------------------------------------------
 
 
@@ -1499,7 +1502,7 @@ packing b'IDAT'; 75 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002003192901611328 seconds
+elapsed time     : 0.0029969215393066406 seconds
 -------------------------------------------------
 
 
@@ -1524,7 +1527,7 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003477334976196289 seconds
+elapsed time     : 0.002000093460083008 seconds
 -------------------------------------------------
 
 
@@ -1567,7 +1570,7 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0057773590087890625 seconds
+elapsed time     : 0.006142377853393555 seconds
 -------------------------------------------------
 
 
@@ -1610,7 +1613,7 @@ packing b'IDAT'; 76 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005007266998291016 seconds
+elapsed time     : 0.007099151611328125 seconds
 -------------------------------------------------
 
 
@@ -1653,7 +1656,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00495600700378418 seconds
+elapsed time     : 0.007413625717163086 seconds
 -------------------------------------------------
 
 
@@ -1696,7 +1699,7 @@ packing b'IDAT'; 93 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00439453125 seconds
+elapsed time     : 0.006519317626953125 seconds
 -------------------------------------------------
 
 
@@ -1739,7 +1742,7 @@ packing b'IDAT'; 96 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004642486572265625 seconds
+elapsed time     : 0.0048182010650634766 seconds
 -------------------------------------------------
 
 
@@ -1782,7 +1785,7 @@ packing b'IDAT'; 101 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0048635005950927734 seconds
+elapsed time     : 0.005529642105102539 seconds
 -------------------------------------------------
 
 
@@ -1819,9 +1822,17 @@ packing b'tEXt'; 14 bytes
 packing b'tEXt'; 49 bytes
 packing b'zTXt'; 65 bytes
 WARNING! Exception Raised: required argument is not an integer
+packing b'zTXt'; 187 bytes
+WARNING! Exception Raised: required argument is not an integer
+packing b'zTXt'; 64 bytes
+WARNING! Exception Raised: required argument is not an integer
+packing b'zTXt'; 29 bytes
+WARNING! Exception Raised: required argument is not an integer
+packing b'IDAT'; 200 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004436016082763672 seconds
+elapsed time     : 0.005517244338989258 seconds
 -------------------------------------------------
 
 
@@ -1844,7 +1855,7 @@ packing b'IDAT'; 741 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025861263275146484 seconds
+elapsed time     : 0.002942800521850586 seconds
 -------------------------------------------------
 
 
@@ -1866,7 +1877,7 @@ packing b'IDAT'; 262 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001346588134765625 seconds
+elapsed time     : 0.0034618377685546875 seconds
 -------------------------------------------------
 
 
@@ -1888,7 +1899,7 @@ packing b'IDAT'; 2418 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002866506576538086 seconds
+elapsed time     : 0.0020122528076171875 seconds
 -------------------------------------------------
 
 
@@ -1910,7 +1921,7 @@ packing b'IDAT'; 264 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001131296157836914 seconds
+elapsed time     : 0.0020477771759033203 seconds
 -------------------------------------------------
 
 
@@ -1932,7 +1943,7 @@ packing b'IDAT'; 1123 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0027618408203125 seconds
+elapsed time     : 0.002046346664428711 seconds
 -------------------------------------------------
 
 
@@ -1954,7 +1965,7 @@ packing b'IDAT'; 298 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001009225845336914 seconds
+elapsed time     : 0.0020084381103515625 seconds
 -------------------------------------------------
 
 
@@ -1976,7 +1987,7 @@ packing b'IDAT'; 1672 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0009996891021728516 seconds
+elapsed time     : 0.002407073974609375 seconds
 -------------------------------------------------
 
 
@@ -1998,7 +2009,7 @@ packing b'IDAT'; 332 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001020669937133789 seconds
+elapsed time     : 0.0019981861114501953 seconds
 -------------------------------------------------
 
 
@@ -2020,7 +2031,7 @@ packing b'IDAT'; 1234 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015146732330322266 seconds
+elapsed time     : 0.0012292861938476562 seconds
 -------------------------------------------------
 
 
@@ -2042,7 +2053,7 @@ packing b'IDAT'; 212 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0013244152069091797 seconds
+elapsed time     : 0.0021266937255859375 seconds
 -------------------------------------------------
 
 
@@ -2064,7 +2075,7 @@ packing b'IDAT'; 928 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019292831420898438 seconds
+elapsed time     : 0.002409219741821289 seconds
 -------------------------------------------------
 
 
@@ -2086,7 +2097,7 @@ packing b'IDAT'; 369 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007024049758911133 seconds
+elapsed time     : 0.0020008087158203125 seconds
 -------------------------------------------------
 
 
@@ -2111,7 +2122,7 @@ packing b'IDAT'; 272 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025513172149658203 seconds
+elapsed time     : 0.002293109893798828 seconds
 -------------------------------------------------
 
 
@@ -2136,7 +2147,7 @@ packing b'IDAT'; 297 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003095865249633789 seconds
+elapsed time     : 0.0025894641876220703 seconds
 -------------------------------------------------
 
 
@@ -2164,7 +2175,7 @@ packing b'IDAT'; 99 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002216815948486328 seconds
+elapsed time     : 0.0013098716735839844 seconds
 -------------------------------------------------
 
 
@@ -2189,7 +2200,7 @@ packing b'IDAT'; 290 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024950504302978516 seconds
+elapsed time     : 0.002063751220703125 seconds
 -------------------------------------------------
 
 
@@ -2214,7 +2225,7 @@ packing b'IDAT'; 304 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0012006759643554688 seconds
+elapsed time     : 0.0024662017822265625 seconds
 -------------------------------------------------
 
 
@@ -2242,7 +2253,7 @@ packing b'IDAT'; 104 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002565145492553711 seconds
+elapsed time     : 0.0020177364349365234 seconds
 -------------------------------------------------
 
 
@@ -2267,7 +2278,7 @@ packing b'IDAT'; 266 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031576156616210938 seconds
+elapsed time     : 0.003010988235473633 seconds
 -------------------------------------------------
 
 
@@ -2292,7 +2303,7 @@ packing b'IDAT'; 277 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024099349975585938 seconds
+elapsed time     : 0.002824544906616211 seconds
 -------------------------------------------------
 
 
@@ -2320,7 +2331,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0027904510498046875 seconds
+elapsed time     : 0.0030121803283691406 seconds
 -------------------------------------------------
 
 
@@ -2345,7 +2356,7 @@ packing b'IDAT'; 248 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002228975296020508 seconds
+elapsed time     : 0.0028488636016845703 seconds
 -------------------------------------------------
 
 
@@ -2370,7 +2381,7 @@ packing b'IDAT'; 267 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002500295639038086 seconds
+elapsed time     : 0.0015993118286132812 seconds
 -------------------------------------------------
 
 
@@ -2398,7 +2409,7 @@ packing b'IDAT'; 92 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0027618408203125 seconds
+elapsed time     : 0.0022721290588378906 seconds
 -------------------------------------------------
 
 
@@ -2423,7 +2434,7 @@ packing b'IDAT'; 189 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019600391387939453 seconds
+elapsed time     : 0.0021622180938720703 seconds
 -------------------------------------------------
 
 
@@ -2448,7 +2459,7 @@ packing b'IDAT'; 212 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002294301986694336 seconds
+elapsed time     : 0.002458333969116211 seconds
 -------------------------------------------------
 
 
@@ -2476,7 +2487,7 @@ packing b'IDAT'; 99 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021317005157470703 seconds
+elapsed time     : 0.0025131702423095703 seconds
 -------------------------------------------------
 
 
@@ -2501,7 +2512,7 @@ packing b'IDAT'; 310 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020198822021484375 seconds
+elapsed time     : 0.0014576911926269531 seconds
 -------------------------------------------------
 
 
@@ -2526,7 +2537,7 @@ packing b'IDAT'; 332 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002009868621826172 seconds
+elapsed time     : 0.002026796340942383 seconds
 -------------------------------------------------
 
 
@@ -2554,7 +2565,7 @@ packing b'IDAT'; 100 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030586719512939453 seconds
+elapsed time     : 0.0020041465759277344 seconds
 -------------------------------------------------
 
 
@@ -2579,7 +2590,7 @@ packing b'IDAT'; 94 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001997709274291992 seconds
+elapsed time     : 0.002007722854614258 seconds
 -------------------------------------------------
 
 
@@ -2604,7 +2615,7 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002007722854614258 seconds
+elapsed time     : 0.0016849040985107422 seconds
 -------------------------------------------------
 
 
@@ -2632,7 +2643,7 @@ packing b'IDAT'; 30 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034706592559814453 seconds
+elapsed time     : 0.0020024776458740234 seconds
 -------------------------------------------------
 
 
@@ -2660,7 +2671,7 @@ packing b'IDAT'; 101 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020072460174560547 seconds
+elapsed time     : 0.0017952919006347656 seconds
 -------------------------------------------------
 
 
@@ -2694,7 +2705,7 @@ packing b'IDAT'; 30 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004332304000854492 seconds
+elapsed time     : 0.0030066967010498047 seconds
 -------------------------------------------------
 
 
@@ -2728,7 +2739,7 @@ packing b'IDAT'; 2 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00456547737121582 seconds
+elapsed time     : 0.0030090808868408203 seconds
 -------------------------------------------------
 
 
@@ -3032,7 +3043,7 @@ packing b'IDAT'; 1 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.04456663131713867 seconds
+elapsed time     : 0.04190707206726074 seconds
 -------------------------------------------------
 
 
@@ -3741,7 +3752,7 @@ packing b'IDAT'; 1 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.10964536666870117 seconds
+elapsed time     : 0.10107874870300293 seconds
 -------------------------------------------------
 
 
@@ -3763,7 +3774,7 @@ packing b'IDAT'; 2205 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0010104179382324219 seconds
+elapsed time     : 0.001997232437133789 seconds
 -------------------------------------------------
 
 
@@ -3791,7 +3802,7 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031528472900390625 seconds
+elapsed time     : 0.003746509552001953 seconds
 -------------------------------------------------
 
 
@@ -3819,7 +3830,7 @@ packing b'IDAT'; 85 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002090930938720703 seconds
+elapsed time     : 0.003125905990600586 seconds
 -------------------------------------------------
 
 
@@ -3844,9 +3855,11 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'sPLT'; 1306 bytes
 WARNING! Exception Raised: name 'palette_name' is not defined
+packing b'IDAT'; 65 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003174304962158203 seconds
+elapsed time     : 0.004099369049072266 seconds
 -------------------------------------------------
 
 
@@ -3871,9 +3884,11 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'sPLT'; 1306 bytes
 WARNING! Exception Raised: name 'palette_name' is not defined
+packing b'IDAT'; 229 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035431385040283203 seconds
+elapsed time     : 0.002860546112060547 seconds
 -------------------------------------------------
 
 
@@ -3898,9 +3913,11 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'sPLT'; 2170 bytes
 WARNING! Exception Raised: name 'palette_name' is not defined
+packing b'IDAT'; 65 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004793643951416016 seconds
+elapsed time     : 0.0037462711334228516 seconds
 -------------------------------------------------
 
 
@@ -3925,9 +3942,11 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'sPLT'; 2170 bytes
 WARNING! Exception Raised: name 'palette_name' is not defined
+packing b'IDAT'; 229 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004265785217285156 seconds
+elapsed time     : 0.0031626224517822266 seconds
 -------------------------------------------------
 
 
@@ -3958,7 +3977,7 @@ packing b'IDAT'; 10 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024297237396240234 seconds
+elapsed time     : 0.0037147998809814453 seconds
 -------------------------------------------------
 
 
@@ -3989,7 +4008,7 @@ packing b'IDAT'; 10 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004007101058959961 seconds
+elapsed time     : 0.0029985904693603516 seconds
 -------------------------------------------------
 
 
@@ -4020,7 +4039,7 @@ packing b'IDAT'; 11 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003615140914916992 seconds
+elapsed time     : 0.0025086402893066406 seconds
 -------------------------------------------------
 
 
@@ -4051,7 +4070,7 @@ packing b'IDAT'; 12 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00404047966003418 seconds
+elapsed time     : 0.002998828887939453 seconds
 -------------------------------------------------
 
 
@@ -4082,7 +4101,7 @@ packing b'IDAT'; 12 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0028145313262939453 seconds
+elapsed time     : 0.003309011459350586 seconds
 -------------------------------------------------
 
 
@@ -4113,7 +4132,7 @@ packing b'IDAT'; 14 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0032541751861572266 seconds
+elapsed time     : 0.0039746761322021484 seconds
 -------------------------------------------------
 
 
@@ -4144,7 +4163,7 @@ packing b'IDAT'; 20 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002508878707885742 seconds
+elapsed time     : 0.0029904842376708984 seconds
 -------------------------------------------------
 
 
@@ -4175,7 +4194,7 @@ packing b'IDAT'; 15 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003345966339111328 seconds
+elapsed time     : 0.0032510757446289062 seconds
 -------------------------------------------------
 
 
@@ -4206,7 +4225,7 @@ packing b'IDAT'; 25 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002561330795288086 seconds
+elapsed time     : 0.0030221939086914062 seconds
 -------------------------------------------------
 
 
@@ -4237,7 +4256,7 @@ packing b'IDAT'; 20 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030024051666259766 seconds
+elapsed time     : 0.0032694339752197266 seconds
 -------------------------------------------------
 
 
@@ -4268,7 +4287,7 @@ packing b'IDAT'; 34 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003010988235473633 seconds
+elapsed time     : 0.0030028820037841797 seconds
 -------------------------------------------------
 
 
@@ -4299,7 +4318,7 @@ packing b'IDAT'; 22 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0032320022583007812 seconds
+elapsed time     : 0.0029976367950439453 seconds
 -------------------------------------------------
 
 
@@ -4330,7 +4349,7 @@ packing b'IDAT'; 37 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021805763244628906 seconds
+elapsed time     : 0.004001617431640625 seconds
 -------------------------------------------------
 
 
@@ -4361,7 +4380,7 @@ packing b'IDAT'; 26 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031938552856445312 seconds
+elapsed time     : 0.003299713134765625 seconds
 -------------------------------------------------
 
 
@@ -4392,7 +4411,7 @@ packing b'IDAT'; 37 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003023862838745117 seconds
+elapsed time     : 0.002997875213623047 seconds
 -------------------------------------------------
 
 
@@ -4423,7 +4442,7 @@ packing b'IDAT'; 27 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035562515258789062 seconds
+elapsed time     : 0.002964019775390625 seconds
 -------------------------------------------------
 
 
@@ -4454,7 +4473,7 @@ packing b'IDAT'; 35 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002425670623779297 seconds
+elapsed time     : 0.0029997825622558594 seconds
 -------------------------------------------------
 
 
@@ -4485,7 +4504,7 @@ packing b'IDAT'; 31 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001779317855834961 seconds
+elapsed time     : 0.0025169849395751953 seconds
 -------------------------------------------------
 
 
@@ -4516,7 +4535,7 @@ packing b'IDAT'; 216 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002847909927368164 seconds
+elapsed time     : 0.0034177303314208984 seconds
 -------------------------------------------------
 
 
@@ -4547,7 +4566,7 @@ packing b'IDAT'; 124 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031805038452148438 seconds
+elapsed time     : 0.002000093460083008 seconds
 -------------------------------------------------
 
 
@@ -4578,7 +4597,7 @@ packing b'IDAT'; 246 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002960205078125 seconds
+elapsed time     : 0.0030035972595214844 seconds
 -------------------------------------------------
 
 
@@ -4609,7 +4628,7 @@ packing b'IDAT'; 190 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0036423206329345703 seconds
+elapsed time     : 0.006001710891723633 seconds
 -------------------------------------------------
 
 
@@ -4640,7 +4659,7 @@ packing b'IDAT'; 210 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0033910274505615234 seconds
+elapsed time     : 0.003000974655151367 seconds
 -------------------------------------------------
 
 
@@ -4671,7 +4690,7 @@ packing b'IDAT'; 109 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003068208694458008 seconds
+elapsed time     : 0.0020096302032470703 seconds
 -------------------------------------------------
 
 
@@ -4702,7 +4721,7 @@ packing b'IDAT'; 260 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031197071075439453 seconds
+elapsed time     : 0.0019986629486083984 seconds
 -------------------------------------------------
 
 
@@ -4733,7 +4752,7 @@ packing b'IDAT'; 199 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002765178680419922 seconds
+elapsed time     : 0.0030035972595214844 seconds
 -------------------------------------------------
 
 
@@ -4764,7 +4783,7 @@ packing b'IDAT'; 217 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030198097229003906 seconds
+elapsed time     : 0.003002166748046875 seconds
 -------------------------------------------------
 
 
@@ -4795,7 +4814,7 @@ packing b'IDAT'; 119 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00304412841796875 seconds
+elapsed time     : 0.002001523971557617 seconds
 -------------------------------------------------
 
 
@@ -4826,7 +4845,7 @@ packing b'IDAT'; 254 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002466440200805664 seconds
+elapsed time     : 0.003000020980834961 seconds
 -------------------------------------------------
 
 
@@ -4857,7 +4876,7 @@ packing b'IDAT'; 197 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035865306854248047 seconds
+elapsed time     : 0.003997087478637695 seconds
 -------------------------------------------------
 
 
@@ -4888,7 +4907,7 @@ packing b'IDAT'; 218 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002343416213989258 seconds
+elapsed time     : 0.0029976367950439453 seconds
 -------------------------------------------------
 
 
@@ -4919,7 +4938,7 @@ packing b'IDAT'; 106 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0036618709564208984 seconds
+elapsed time     : 0.0030002593994140625 seconds
 -------------------------------------------------
 
 
@@ -4950,7 +4969,7 @@ packing b'IDAT'; 281 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0022835731506347656 seconds
+elapsed time     : 0.0020973682403564453 seconds
 -------------------------------------------------
 
 
@@ -4981,7 +5000,7 @@ packing b'IDAT'; 213 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004216432571411133 seconds
+elapsed time     : 0.003009796142578125 seconds
 -------------------------------------------------
 
 
@@ -5012,7 +5031,7 @@ packing b'IDAT'; 218 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030007362365722656 seconds
+elapsed time     : 0.0030088424682617188 seconds
 -------------------------------------------------
 
 
@@ -5043,7 +5062,7 @@ packing b'IDAT'; 117 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003503561019897461 seconds
+elapsed time     : 0.0035049915313720703 seconds
 -------------------------------------------------
 
 
@@ -5074,7 +5093,7 @@ packing b'IDAT'; 328 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0037114620208740234 seconds
+elapsed time     : 0.002005338668823242 seconds
 -------------------------------------------------
 
 
@@ -5101,9 +5120,12 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'tRNS'; 6 bytes
 WARNING! Exception Raised: ubyte format requires 0 <= number <= 255
+packing b'bKGD'; 6 bytes
+packing b'IDAT'; 1932 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025289058685302734 seconds
+elapsed time     : 0.0029947757720947266 seconds
 -------------------------------------------------
 
 
@@ -5137,7 +5159,7 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030286312103271484 seconds
+elapsed time     : 0.0029964447021484375 seconds
 -------------------------------------------------
 
 
@@ -5164,9 +5186,12 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'tRNS'; 6 bytes
 WARNING! Exception Raised: ubyte format requires 0 <= number <= 255
+packing b'bKGD'; 6 bytes
+packing b'IDAT'; 1932 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003195524215698242 seconds
+elapsed time     : 0.004006385803222656 seconds
 -------------------------------------------------
 
 
@@ -5200,7 +5225,7 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004002809524536133 seconds
+elapsed time     : 0.004524707794189453 seconds
 -------------------------------------------------
 
 
@@ -5231,7 +5256,7 @@ packing b'IDAT'; 1524 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031020641326904297 seconds
+elapsed time     : 0.0030007362365722656 seconds
 -------------------------------------------------
 
 
@@ -5258,9 +5283,12 @@ packing b'IHDR'; 13 bytes
 packing b'gAMA'; 4 bytes
 packing b'tRNS'; 2 bytes
 WARNING! Exception Raised: ubyte format requires 0 <= number <= 255
+packing b'bKGD'; 2 bytes
+packing b'IDAT'; 1212 bytes
+packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003011941909790039 seconds
+elapsed time     : 0.0025103092193603516 seconds
 -------------------------------------------------
 
 
@@ -5294,7 +5322,7 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003722667694091797 seconds
+elapsed time     : 0.0040035247802734375 seconds
 -------------------------------------------------
 
 
@@ -5328,7 +5356,7 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00427556037902832 seconds
+elapsed time     : 0.0039975643157958984 seconds
 -------------------------------------------------
 
 
@@ -5356,7 +5384,7 @@ packing b'IDAT'; 20 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0011243820190429688 seconds
+elapsed time     : 0.0019998550415039062 seconds
 -------------------------------------------------
 
 
@@ -5381,7 +5409,7 @@ packing b'IDAT'; 646 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015137195587158203 seconds
+elapsed time     : 0.002999544143676758 seconds
 -------------------------------------------------
 
 
@@ -5406,7 +5434,7 @@ packing b'IDAT'; 1521 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015139579772949219 seconds
+elapsed time     : 0.002002239227294922 seconds
 -------------------------------------------------
 
 
@@ -5434,7 +5462,7 @@ packing b'IDAT'; 656 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029065608978271484 seconds
+elapsed time     : 0.0021982192993164062 seconds
 -------------------------------------------------
 
 
@@ -5465,7 +5493,7 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030126571655273438 seconds
+elapsed time     : 0.0031976699829101562 seconds
 -------------------------------------------------
 
 
@@ -5490,7 +5518,7 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002495288848876953 seconds
+elapsed time     : 0.001222848892211914 seconds
 -------------------------------------------------
 
 
@@ -5501,11 +5529,14 @@ test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: color type 9 and/or bit depth 8 does not match specification: valid color type values => [0, 1, 2, 3, 4, 6]
+parsing b'gAMA'; 4 bytes
+parsing b'IDAT'; 72 bytes
+parsing b'IEND'; 0 bytes
 parsed chunks:
   [000] - CT_IHDR(is_parsed=False, chunk_size=13, chunk_type=b'IHDR', chunk_crc=b'+\x19j\xa2', width=32, height=32, bit_depth=8, color_type=9, compression_method=0, filter_method=0, interlace_method=0, color_type_info='palette-used')
-  [001] - CT_gAMA(is_parsed=False, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=0)
-  [002] - CT_IDAT(is_parsed=False, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
-  [003] - CT_IEND(is_parsed=False, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
+  [001] - CT_gAMA(is_parsed=True, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=100000)
+  [002] - CT_IDAT(is_parsed=True, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
+  [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 repacking parsed result
 packing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: width is zero
@@ -5514,7 +5545,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.001007080078125 seconds
+elapsed time     : 0.0015048980712890625 seconds
 -------------------------------------------------
 
 
@@ -5540,7 +5571,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030422210693359375 seconds
+elapsed time     : 0.00099945068359375 seconds
 -------------------------------------------------
 
 
@@ -5566,7 +5597,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030019283294677734 seconds
+elapsed time     : 0.0030007362365722656 seconds
 -------------------------------------------------
 
 
@@ -5577,11 +5608,14 @@ test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: color type 2 and/or bit depth 0 does not match specification: valid color type values => [8, 16]
+parsing b'gAMA'; 4 bytes
+parsing b'IDAT'; 72 bytes
+parsing b'IEND'; 0 bytes
 parsed chunks:
   [000] - CT_IHDR(is_parsed=False, chunk_size=13, chunk_type=b'IHDR', chunk_crc=b'\xcch\xa6b', width=32, height=32, bit_depth=0, color_type=2, compression_method=0, filter_method=0, interlace_method=0, color_type_info='color-used')
-  [001] - CT_gAMA(is_parsed=False, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=0)
-  [002] - CT_IDAT(is_parsed=False, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
-  [003] - CT_IEND(is_parsed=False, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
+  [001] - CT_gAMA(is_parsed=True, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=100000)
+  [002] - CT_IDAT(is_parsed=True, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
+  [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 repacking parsed result
 packing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: width is zero
@@ -5590,7 +5624,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.001997232437133789 seconds
+elapsed time     : 0.0020236968994140625 seconds
 -------------------------------------------------
 
 
@@ -5601,11 +5635,14 @@ test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: color type 2 and/or bit depth 3 does not match specification: valid color type values => [8, 16]
+parsing b'gAMA'; 4 bytes
+parsing b'IDAT'; 72 bytes
+parsing b'IEND'; 0 bytes
 parsed chunks:
   [000] - CT_IHDR(is_parsed=False, chunk_size=13, chunk_type=b'IHDR', chunk_crc=b'\x8b\xc8\xdc\xb2', width=32, height=32, bit_depth=3, color_type=2, compression_method=0, filter_method=0, interlace_method=0, color_type_info='color-used')
-  [001] - CT_gAMA(is_parsed=False, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=0)
-  [002] - CT_IDAT(is_parsed=False, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
-  [003] - CT_IEND(is_parsed=False, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
+  [001] - CT_gAMA(is_parsed=True, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=100000)
+  [002] - CT_IDAT(is_parsed=True, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
+  [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 repacking parsed result
 packing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: width is zero
@@ -5614,7 +5651,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0014004707336425781 seconds
+elapsed time     : 0.0031812191009521484 seconds
 -------------------------------------------------
 
 
@@ -5625,11 +5662,14 @@ test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: color type 2 and/or bit depth 99 does not match specification: valid color type values => [8, 16]
+parsing b'gAMA'; 4 bytes
+parsing b'IDAT'; 72 bytes
+parsing b'IEND'; 0 bytes
 parsed chunks:
   [000] - CT_IHDR(is_parsed=False, chunk_size=13, chunk_type=b'IHDR', chunk_crc=b'\x12\xfa\xab\xff', width=32, height=32, bit_depth=99, color_type=2, compression_method=0, filter_method=0, interlace_method=0, color_type_info='color-used')
-  [001] - CT_gAMA(is_parsed=False, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=0)
-  [002] - CT_IDAT(is_parsed=False, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
-  [003] - CT_IEND(is_parsed=False, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
+  [001] - CT_gAMA(is_parsed=True, chunk_size=4, chunk_type=b'gAMA', chunk_crc=b'1\xe8\x96_', gamma=100000)
+  [002] - CT_IDAT(is_parsed=True, chunk_size=72, chunk_type=b'IDAT', chunk_crc=b'\x0f@\xcfK')
+  [003] - CT_IEND(is_parsed=True, chunk_size=0, chunk_type=b'IEND', chunk_crc=b'\xaeB`\x82')
 repacking parsed result
 packing b'IHDR'; 13 bytes
 WARNING! AssertionError: invalid value: width is zero
@@ -5638,7 +5678,7 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.001491546630859375 seconds
+elapsed time     : 0.0030493736267089844 seconds
 -------------------------------------------------
 
 
@@ -5660,7 +5700,7 @@ packing b'gAMA'; 4 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020210742950439453 seconds
+elapsed time     : 0.0010001659393310547 seconds
 -------------------------------------------------
 
 
@@ -5686,7 +5726,7 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020134449005126953 seconds
+elapsed time     : 0.0020051002502441406 seconds
 -------------------------------------------------
 
 
@@ -5706,7 +5746,7 @@ repacking parsed result
 packing b'IHDR'; 10 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.35982203483581543 seconds
+elapsed time     : 0.2934105396270752 seconds
 -------------------------------------------------
 
 
@@ -5732,7 +5772,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004565715789794922 seconds
+elapsed time     : 0.0034317970275878906 seconds
 -------------------------------------------------
 
 
@@ -5758,7 +5798,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0027883052825927734 seconds
+elapsed time     : 0.0034766197204589844 seconds
 -------------------------------------------------
 
 
@@ -5784,7 +5824,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003204822540283203 seconds
+elapsed time     : 0.002287149429321289 seconds
 -------------------------------------------------
 
 
@@ -5810,7 +5850,7 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003008127212524414 seconds
+elapsed time     : 0.002102375030517578 seconds
 -------------------------------------------------
 
 
@@ -5832,7 +5872,7 @@ packing b'IDAT'; 3115 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019979476928710938 seconds
+elapsed time     : 0.002504587173461914 seconds
 -------------------------------------------------
 
 
@@ -5854,7 +5894,7 @@ packing b'IDAT'; 175 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0010056495666503906 seconds
+elapsed time     : 0.0019986629486083984 seconds
 -------------------------------------------------
 
 
@@ -5876,7 +5916,7 @@ packing b'IDAT'; 167 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0010123252868652344 seconds
+elapsed time     : 0.0009987354278564453 seconds
 -------------------------------------------------
 
 
@@ -5898,7 +5938,7 @@ packing b'IDAT'; 167 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0010590553283691406 seconds
+elapsed time     : 0.0011560916900634766 seconds
 -------------------------------------------------
 
 
@@ -5906,4 +5946,4 @@ elapsed time     : 0.0010590553283691406 seconds
 some stats:
   - total file parsed   : 176
   - inferred total size : 99926 bytes
-  - total elapsed time  : 0.9910900592803955 seconds
+  - total elapsed time  : 0.9401726722717285 seconds
