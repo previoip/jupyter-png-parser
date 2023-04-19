@@ -1,10 +1,10 @@
 python version : 3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]
-prog timestamp : 2023-04-15T16:34:08.083332
+prog timestamp : 2023-04-19T10:19:07.331842
 
 
 -------------------------------------------------
 file 001/176
-target file      : "test input\basi0g01.png"
+target file      : "test-input\basi0g01.png"
 test description : black & white
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -23,13 +23,13 @@ packing b'IDAT'; 144 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015132427215576172 seconds
+elapsed time     : 0.00498199462890625 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 002/176
-target file      : "test input\basi0g02.png"
+target file      : "test-input\basi0g02.png"
 test description : 2 bit (4 level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -48,13 +48,13 @@ packing b'IDAT'; 81 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019981861114501953 seconds
+elapsed time     : 0.004961252212524414 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 003/176
-target file      : "test input\basi0g04.png"
+target file      : "test-input\basi0g04.png"
 test description : 4 bit (16 level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -73,13 +73,13 @@ packing b'IDAT'; 174 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0016047954559326172 seconds
+elapsed time     : 0.007637739181518555 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 004/176
-target file      : "test input\basi0g08.png"
+target file      : "test-input\basi0g08.png"
 test description : 8 bit (256 level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -98,13 +98,13 @@ packing b'IDAT'; 181 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001996755599975586 seconds
+elapsed time     : 0.006098270416259766 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 005/176
-target file      : "test input\basi0g16.png"
+target file      : "test-input\basi0g16.png"
 test description : 16 bit (64k level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -123,13 +123,13 @@ packing b'IDAT'; 226 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002540111541748047 seconds
+elapsed time     : 0.006433725357055664 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 006/176
-target file      : "test input\basi2c08.png"
+target file      : "test-input\basi2c08.png"
 test description : 3x8 bits rgb color
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -148,13 +148,13 @@ packing b'IDAT'; 242 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0009984970092773438 seconds
+elapsed time     : 0.003019094467163086 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 007/176
-target file      : "test input\basi2c16.png"
+target file      : "test-input\basi2c16.png"
 test description : 3x16 bits rgb color
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -173,13 +173,13 @@ packing b'IDAT'; 522 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020003318786621094 seconds
+elapsed time     : 0.005472421646118164 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 008/176
-target file      : "test input\basi3p01.png"
+target file      : "test-input\basi3p01.png"
 test description : 1 bit (2 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -201,13 +201,13 @@ packing b'IDAT'; 41 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002999544143676758 seconds
+elapsed time     : 0.004186153411865234 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 009/176
-target file      : "test input\basi3p02.png"
+target file      : "test-input\basi3p02.png"
 test description : 2 bit (4 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -232,13 +232,13 @@ packing b'IDAT'; 81 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00262451171875 seconds
+elapsed time     : 0.010802984237670898 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 010/176
-target file      : "test input\basi3p04.png"
+target file      : "test-input\basi3p04.png"
 test description : 4 bit (16 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -263,13 +263,13 @@ packing b'IDAT'; 182 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030014514923095703 seconds
+elapsed time     : 0.007621049880981445 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 011/176
-target file      : "test input\basi3p08.png"
+target file      : "test-input\basi3p08.png"
 test description : 8 bit (256 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -291,13 +291,13 @@ packing b'IDAT'; 674 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002359628677368164 seconds
+elapsed time     : 0.007239818572998047 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 012/176
-target file      : "test input\basi4a08.png"
+target file      : "test-input\basi4a08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -316,13 +316,13 @@ packing b'IDAT'; 141 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020079612731933594 seconds
+elapsed time     : 0.005052328109741211 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 013/176
-target file      : "test input\basi4a16.png"
+target file      : "test-input\basi4a16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -341,13 +341,13 @@ packing b'IDAT'; 2782 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0027260780334472656 seconds
+elapsed time     : 0.007508754730224609 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 014/176
-target file      : "test input\basi6a08.png"
+target file      : "test-input\basi6a08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -366,13 +366,13 @@ packing b'IDAT'; 288 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025191307067871094 seconds
+elapsed time     : 0.006209611892700195 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 015/176
-target file      : "test input\basi6a16.png"
+target file      : "test-input\basi6a16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -391,13 +391,13 @@ packing b'IDAT'; 4107 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0028417110443115234 seconds
+elapsed time     : 0.005021095275878906 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 016/176
-target file      : "test input\basn0g01.png"
+target file      : "test-input\basn0g01.png"
 test description : black & white
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -416,13 +416,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020101070404052734 seconds
+elapsed time     : 0.0034072399139404297 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 017/176
-target file      : "test input\basn0g02.png"
+target file      : "test-input\basn0g02.png"
 test description : 2 bit (4 level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -441,13 +441,13 @@ packing b'IDAT'; 31 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020034313201904297 seconds
+elapsed time     : 0.002174854278564453 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 018/176
-target file      : "test input\basn0g04.png"
+target file      : "test-input\basn0g04.png"
 test description : 4 bit (16 level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -466,13 +466,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0026204586029052734 seconds
+elapsed time     : 0.0014739036560058594 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 019/176
-target file      : "test input\basn0g08.png"
+target file      : "test-input\basn0g08.png"
 test description : 8 bit (256 level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -491,13 +491,13 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002515554428100586 seconds
+elapsed time     : 0.0036034584045410156 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 020/176
-target file      : "test input\basn0g16.png"
+target file      : "test-input\basn0g16.png"
 test description : 16 bit (64k level) grayscale
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -516,13 +516,13 @@ packing b'IDAT'; 94 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020029544830322266 seconds
+elapsed time     : 0.0015888214111328125 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 021/176
-target file      : "test input\basn2c08.png"
+target file      : "test-input\basn2c08.png"
 test description : 3x8 bits rgb color
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -541,13 +541,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00200653076171875 seconds
+elapsed time     : 0.0040950775146484375 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 022/176
-target file      : "test input\basn2c16.png"
+target file      : "test-input\basn2c16.png"
 test description : 3x16 bits rgb color
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -566,13 +566,13 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002006053924560547 seconds
+elapsed time     : 0.0030622482299804688 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 023/176
-target file      : "test input\basn3p01.png"
+target file      : "test-input\basn3p01.png"
 test description : 1 bit (2 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -594,13 +594,13 @@ packing b'IDAT'; 21 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002234220504760742 seconds
+elapsed time     : 0.004925727844238281 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 024/176
-target file      : "test input\basn3p02.png"
+target file      : "test-input\basn3p02.png"
 test description : 2 bit (4 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -625,13 +625,13 @@ packing b'IDAT'; 34 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035202503204345703 seconds
+elapsed time     : 0.004157543182373047 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 025/176
-target file      : "test input\basn3p04.png"
+target file      : "test-input\basn3p04.png"
 test description : 4 bit (16 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -656,13 +656,13 @@ packing b'IDAT'; 71 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035207271575927734 seconds
+elapsed time     : 0.008210420608520508 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 026/176
-target file      : "test input\basn3p08.png"
+target file      : "test-input\basn3p08.png"
 test description : 8 bit (256 color) paletted
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -684,13 +684,13 @@ packing b'IDAT'; 433 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004033327102661133 seconds
+elapsed time     : 0.006560087203979492 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 027/176
-target file      : "test input\basn4a08.png"
+target file      : "test-input\basn4a08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -709,13 +709,13 @@ packing b'IDAT'; 53 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002018451690673828 seconds
+elapsed time     : 0.005022287368774414 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 028/176
-target file      : "test input\basn4a16.png"
+target file      : "test-input\basn4a16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -734,13 +734,13 @@ packing b'IDAT'; 2133 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002518892288208008 seconds
+elapsed time     : 0.006911039352416992 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 029/176
-target file      : "test input\basn6a08.png"
+target file      : "test-input\basn6a08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -759,13 +759,13 @@ packing b'IDAT'; 111 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035812854766845703 seconds
+elapsed time     : 0.0038199424743652344 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 030/176
-target file      : "test input\basn6a16.png"
+target file      : "test-input\basn6a16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -784,13 +784,13 @@ packing b'IDAT'; 3362 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020055770874023438 seconds
+elapsed time     : 0.008354425430297852 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 031/176
-target file      : "test input\bgai4a08.png"
+target file      : "test-input\bgai4a08.png"
 test description : 8 bit grayscale, alpha, no background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -809,13 +809,13 @@ packing b'IDAT'; 141 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020761489868164062 seconds
+elapsed time     : 0.007659912109375 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 032/176
-target file      : "test input\bgai4a16.png"
+target file      : "test-input\bgai4a16.png"
 test description : 16 bit grayscale, alpha, no background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -834,13 +834,13 @@ packing b'IDAT'; 2782 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002607107162475586 seconds
+elapsed time     : 0.0016562938690185547 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 033/176
-target file      : "test input\bgan6a08.png"
+target file      : "test-input\bgan6a08.png"
 test description : 3x8 bits rgb color, alpha, no background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -859,13 +859,13 @@ packing b'IDAT'; 111 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0014371871948242188 seconds
+elapsed time     : 0.004380941390991211 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 034/176
-target file      : "test input\bgan6a16.png"
+target file      : "test-input\bgan6a16.png"
 test description : 3x16 bits rgb color, alpha, no background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -884,13 +884,13 @@ packing b'IDAT'; 3362 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035886764526367188 seconds
+elapsed time     : 0.007989645004272461 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 035/176
-target file      : "test input\bgbn4a08.png"
+target file      : "test-input\bgbn4a08.png"
 test description : 8 bit grayscale, alpha, black background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -912,13 +912,13 @@ packing b'IDAT'; 53 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002002239227294922 seconds
+elapsed time     : 0.0048062801361083984 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 036/176
-target file      : "test input\bggn4a16.png"
+target file      : "test-input\bggn4a16.png"
 test description : 16 bit grayscale, alpha, gray background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -940,13 +940,13 @@ packing b'IDAT'; 2133 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002373218536376953 seconds
+elapsed time     : 0.01051187515258789 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 037/176
-target file      : "test input\bgwn6a08.png"
+target file      : "test-input\bgwn6a08.png"
 test description : 3x8 bits rgb color, alpha, white background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -968,13 +968,13 @@ packing b'IDAT'; 111 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034253597259521484 seconds
+elapsed time     : 0.0015332698822021484 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 038/176
-target file      : "test input\bgyn6a16.png"
+target file      : "test-input\bgyn6a16.png"
 test description : 3x16 bits rgb color, alpha, yellow background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -996,13 +996,13 @@ packing b'IDAT'; 3362 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029990673065185547 seconds
+elapsed time     : 0.007748126983642578 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 039/176
-target file      : "test input\ccwn2c08.png"
+target file      : "test-input\ccwn2c08.png"
 test description : chroma chunk w:0.3127,0.3290 r:0.64,0.33 g:0.30,0.60 b:0.15,0.06
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1024,13 +1024,13 @@ packing b'IDAT'; 1397 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00200653076171875 seconds
+elapsed time     : 0.005612850189208984 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 040/176
-target file      : "test input\ccwn3p08.png"
+target file      : "test-input\ccwn3p08.png"
 test description : chroma chunk w:0.3127,0.3290 r:0.64,0.33 g:0.30,0.60 b:0.15,0.06
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1055,13 +1055,13 @@ packing b'IDAT'; 687 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.025149822235107422 seconds
+elapsed time     : 0.04108548164367676 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 041/176
-target file      : "test input\cdfn2c08.png"
+target file      : "test-input\cdfn2c08.png"
 test description : physical pixel dimensions, 8x32 flat pixels
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1086,13 +1086,13 @@ packing b'IDAT'; 295 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003149747848510742 seconds
+elapsed time     : 0.006608247756958008 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 042/176
-target file      : "test input\cdhn2c08.png"
+target file      : "test-input\cdhn2c08.png"
 test description : physical pixel dimensions, 32x8 high pixels
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1117,13 +1117,13 @@ packing b'IDAT'; 235 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030601024627685547 seconds
+elapsed time     : 0.006746768951416016 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 043/176
-target file      : "test input\cdsn2c08.png"
+target file      : "test-input\cdsn2c08.png"
 test description : physical pixel dimensions, 8x8 square pixels
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1148,13 +1148,13 @@ packing b'IDAT'; 123 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024993419647216797 seconds
+elapsed time     : 0.007683753967285156 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 044/176
-target file      : "test input\cdun2c08.png"
+target file      : "test-input\cdun2c08.png"
 test description : physical pixel dimensions, 1000 pixels per 1 meter
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1179,13 +1179,13 @@ packing b'IDAT'; 615 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003905773162841797 seconds
+elapsed time     : 0.008704185485839844 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 045/176
-target file      : "test input\ch1n3p04.png"
+target file      : "test-input\ch1n3p04.png"
 test description : histogram 15 colors
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1213,13 +1213,13 @@ packing b'IDAT'; 71 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004019498825073242 seconds
+elapsed time     : 0.009943246841430664 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 046/176
-target file      : "test input\ch2n3p08.png"
+target file      : "test-input\ch2n3p08.png"
 test description : histogram 256 colors
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1244,13 +1244,13 @@ packing b'IDAT'; 433 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004514932632446289 seconds
+elapsed time     : 0.010105133056640625 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 047/176
-target file      : "test input\cm0n0g04.png"
+target file      : "test-input\cm0n0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1273,13 +1273,13 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025136470794677734 seconds
+elapsed time     : 0.004503011703491211 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 048/176
-target file      : "test input\cm7n0g04.png"
+target file      : "test-input\cm7n0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1302,13 +1302,13 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035140514373779297 seconds
+elapsed time     : 0.005849599838256836 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 049/176
-target file      : "test input\cm9n0g04.png"
+target file      : "test-input\cm9n0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1331,13 +1331,13 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025005340576171875 seconds
+elapsed time     : 0.0058629512786865234 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 050/176
-target file      : "test input\cs3n2c16.png"
+target file      : "test-input\cs3n2c16.png"
 test description : color, 13 significant bits
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1359,13 +1359,13 @@ packing b'IDAT'; 126 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002012014389038086 seconds
+elapsed time     : 0.008326053619384766 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 051/176
-target file      : "test input\cs3n3p08.png"
+target file      : "test-input\cs3n3p08.png"
 test description : paletted, 3 significant bits
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1390,13 +1390,13 @@ packing b'IDAT'; 75 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003024578094482422 seconds
+elapsed time     : 0.005422353744506836 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 052/176
-target file      : "test input\cs5n2c08.png"
+target file      : "test-input\cs5n2c08.png"
 test description : color, 5 significant bits
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1418,13 +1418,13 @@ packing b'IDAT'; 98 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002008199691772461 seconds
+elapsed time     : 0.0052928924560546875 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 053/176
-target file      : "test input\cs5n3p08.png"
+target file      : "test-input\cs5n3p08.png"
 test description : paletted, 5 significant bits
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1449,13 +1449,13 @@ packing b'IDAT'; 75 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003902435302734375 seconds
+elapsed time     : 0.00518488883972168 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 054/176
-target file      : "test input\cs8n2c08.png"
+target file      : "test-input\cs8n2c08.png"
 test description : color, 8 significant bits (reference)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1474,13 +1474,13 @@ packing b'IDAT'; 76 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019991397857666016 seconds
+elapsed time     : 0.0012531280517578125 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 055/176
-target file      : "test input\cs8n3p08.png"
+target file      : "test-input\cs8n3p08.png"
 test description : paletted, 8 significant bits (reference)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1502,13 +1502,13 @@ packing b'IDAT'; 75 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029969215393066406 seconds
+elapsed time     : 0.006241559982299805 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 056/176
-target file      : "test input\ct0n0g04.png"
+target file      : "test-input\ct0n0g04.png"
 test description : no textual data
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1527,13 +1527,13 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002000093460083008 seconds
+elapsed time     : 0.00627589225769043 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 057/176
-target file      : "test input\ct1n0g04.png"
+target file      : "test-input\ct1n0g04.png"
 test description : with textual data
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1570,13 +1570,13 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006142377853393555 seconds
+elapsed time     : 0.014695405960083008 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 058/176
-target file      : "test input\cten0g04.png"
+target file      : "test-input\cten0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1613,13 +1613,13 @@ packing b'IDAT'; 76 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007099151611328125 seconds
+elapsed time     : 0.010965585708618164 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 059/176
-target file      : "test input\ctfn0g04.png"
+target file      : "test-input\ctfn0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1656,13 +1656,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.007413625717163086 seconds
+elapsed time     : 0.010451316833496094 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 060/176
-target file      : "test input\ctgn0g04.png"
+target file      : "test-input\ctgn0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1699,13 +1699,13 @@ packing b'IDAT'; 93 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006519317626953125 seconds
+elapsed time     : 0.010664701461791992 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 061/176
-target file      : "test input\cthn0g04.png"
+target file      : "test-input\cthn0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1742,13 +1742,13 @@ packing b'IDAT'; 96 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0048182010650634766 seconds
+elapsed time     : 0.010004281997680664 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 062/176
-target file      : "test input\ctjn0g04.png"
+target file      : "test-input\ctjn0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1785,13 +1785,13 @@ packing b'IDAT'; 101 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005529642105102539 seconds
+elapsed time     : 0.021709680557250977 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 063/176
-target file      : "test input\ctzn0g04.png"
+target file      : "test-input\ctzn0g04.png"
 test description : with compressed textual data
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1832,13 +1832,13 @@ packing b'IDAT'; 200 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.005517244338989258 seconds
+elapsed time     : 0.009143590927124023 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 064/176
-target file      : "test input\exif2c08.png"
+target file      : "test-input\exif2c08.png"
 test description : not documented
 -------------------------------------------------
 WARNING! chunk type b'eXIf' is not present in ENUM_PNG_CT_BYTES
@@ -1855,13 +1855,13 @@ packing b'IDAT'; 741 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002942800521850586 seconds
+elapsed time     : 0.004929065704345703 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 065/176
-target file      : "test input\f00n0g08.png"
+target file      : "test-input\f00n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1877,13 +1877,13 @@ packing b'IDAT'; 262 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034618377685546875 seconds
+elapsed time     : 0.0025725364685058594 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 066/176
-target file      : "test input\f00n2c08.png"
+target file      : "test-input\f00n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1899,13 +1899,13 @@ packing b'IDAT'; 2418 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020122528076171875 seconds
+elapsed time     : 0.005105257034301758 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 067/176
-target file      : "test input\f01n0g08.png"
+target file      : "test-input\f01n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1921,13 +1921,13 @@ packing b'IDAT'; 264 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020477771759033203 seconds
+elapsed time     : 0.003935337066650391 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 068/176
-target file      : "test input\f01n2c08.png"
+target file      : "test-input\f01n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1943,13 +1943,13 @@ packing b'IDAT'; 1123 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002046346664428711 seconds
+elapsed time     : 0.0070302486419677734 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 069/176
-target file      : "test input\f02n0g08.png"
+target file      : "test-input\f02n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1965,13 +1965,13 @@ packing b'IDAT'; 298 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020084381103515625 seconds
+elapsed time     : 0.00833582878112793 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 070/176
-target file      : "test input\f02n2c08.png"
+target file      : "test-input\f02n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -1987,13 +1987,13 @@ packing b'IDAT'; 1672 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002407073974609375 seconds
+elapsed time     : 0.004551410675048828 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 071/176
-target file      : "test input\f03n0g08.png"
+target file      : "test-input\f03n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2009,13 +2009,13 @@ packing b'IDAT'; 332 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019981861114501953 seconds
+elapsed time     : 0.003319263458251953 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 072/176
-target file      : "test input\f03n2c08.png"
+target file      : "test-input\f03n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2031,13 +2031,13 @@ packing b'IDAT'; 1234 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0012292861938476562 seconds
+elapsed time     : 0.008324861526489258 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 073/176
-target file      : "test input\f04n0g08.png"
+target file      : "test-input\f04n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2053,13 +2053,13 @@ packing b'IDAT'; 212 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021266937255859375 seconds
+elapsed time     : 0.007428646087646484 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 074/176
-target file      : "test input\f04n2c08.png"
+target file      : "test-input\f04n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2075,13 +2075,13 @@ packing b'IDAT'; 928 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002409219741821289 seconds
+elapsed time     : 0.005766153335571289 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 075/176
-target file      : "test input\f99n0g04.png"
+target file      : "test-input\f99n0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2097,13 +2097,13 @@ packing b'IDAT'; 369 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020008087158203125 seconds
+elapsed time     : 0.006028413772583008 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 076/176
-target file      : "test input\g03n0g16.png"
+target file      : "test-input\g03n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2122,13 +2122,13 @@ packing b'IDAT'; 272 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002293109893798828 seconds
+elapsed time     : 0.007126808166503906 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 077/176
-target file      : "test input\g03n2c08.png"
+target file      : "test-input\g03n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2147,13 +2147,13 @@ packing b'IDAT'; 297 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025894641876220703 seconds
+elapsed time     : 0.004609107971191406 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 078/176
-target file      : "test input\g03n3p04.png"
+target file      : "test-input\g03n3p04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2175,13 +2175,13 @@ packing b'IDAT'; 99 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0013098716735839844 seconds
+elapsed time     : 0.006591081619262695 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 079/176
-target file      : "test input\g04n0g16.png"
+target file      : "test-input\g04n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2200,13 +2200,13 @@ packing b'IDAT'; 290 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002063751220703125 seconds
+elapsed time     : 0.003755331039428711 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 080/176
-target file      : "test input\g04n2c08.png"
+target file      : "test-input\g04n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2225,13 +2225,13 @@ packing b'IDAT'; 304 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0024662017822265625 seconds
+elapsed time     : 0.0059947967529296875 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 081/176
-target file      : "test input\g04n3p04.png"
+target file      : "test-input\g04n3p04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2253,13 +2253,13 @@ packing b'IDAT'; 104 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020177364349365234 seconds
+elapsed time     : 0.00432896614074707 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 082/176
-target file      : "test input\g05n0g16.png"
+target file      : "test-input\g05n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2278,13 +2278,13 @@ packing b'IDAT'; 266 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003010988235473633 seconds
+elapsed time     : 0.007590532302856445 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 083/176
-target file      : "test input\g05n2c08.png"
+target file      : "test-input\g05n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2303,13 +2303,13 @@ packing b'IDAT'; 277 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002824544906616211 seconds
+elapsed time     : 0.005186557769775391 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 084/176
-target file      : "test input\g05n3p04.png"
+target file      : "test-input\g05n3p04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2331,13 +2331,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030121803283691406 seconds
+elapsed time     : 0.010221481323242188 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 085/176
-target file      : "test input\g07n0g16.png"
+target file      : "test-input\g07n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2356,13 +2356,13 @@ packing b'IDAT'; 248 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0028488636016845703 seconds
+elapsed time     : 0.004224061965942383 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 086/176
-target file      : "test input\g07n2c08.png"
+target file      : "test-input\g07n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2381,13 +2381,13 @@ packing b'IDAT'; 267 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0015993118286132812 seconds
+elapsed time     : 0.0010900497436523438 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 087/176
-target file      : "test input\g07n3p04.png"
+target file      : "test-input\g07n3p04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2409,13 +2409,13 @@ packing b'IDAT'; 92 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0022721290588378906 seconds
+elapsed time     : 0.00206756591796875 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 088/176
-target file      : "test input\g10n0g16.png"
+target file      : "test-input\g10n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2434,13 +2434,13 @@ packing b'IDAT'; 189 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021622180938720703 seconds
+elapsed time     : 0.0043179988861083984 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 089/176
-target file      : "test input\g10n2c08.png"
+target file      : "test-input\g10n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2459,13 +2459,13 @@ packing b'IDAT'; 212 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002458333969116211 seconds
+elapsed time     : 0.004591941833496094 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 090/176
-target file      : "test input\g10n3p04.png"
+target file      : "test-input\g10n3p04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2487,13 +2487,13 @@ packing b'IDAT'; 99 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025131702423095703 seconds
+elapsed time     : 0.008226871490478516 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 091/176
-target file      : "test input\g25n0g16.png"
+target file      : "test-input\g25n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2512,13 +2512,13 @@ packing b'IDAT'; 310 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0014576911926269531 seconds
+elapsed time     : 0.0077304840087890625 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 092/176
-target file      : "test input\g25n2c08.png"
+target file      : "test-input\g25n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2537,13 +2537,13 @@ packing b'IDAT'; 332 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002026796340942383 seconds
+elapsed time     : 0.005529880523681641 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 093/176
-target file      : "test input\g25n3p04.png"
+target file      : "test-input\g25n3p04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2565,13 +2565,13 @@ packing b'IDAT'; 100 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020041465759277344 seconds
+elapsed time     : 0.0064699649810791016 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 094/176
-target file      : "test input\oi1n0g16.png"
+target file      : "test-input\oi1n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2590,13 +2590,13 @@ packing b'IDAT'; 94 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002007722854614258 seconds
+elapsed time     : 0.007543802261352539 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 095/176
-target file      : "test input\oi1n2c16.png"
+target file      : "test-input\oi1n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2615,13 +2615,13 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0016849040985107422 seconds
+elapsed time     : 0.0030303001403808594 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 096/176
-target file      : "test input\oi2n0g16.png"
+target file      : "test-input\oi2n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2643,13 +2643,13 @@ packing b'IDAT'; 30 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020024776458740234 seconds
+elapsed time     : 0.0071718692779541016 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 097/176
-target file      : "test input\oi2n2c16.png"
+target file      : "test-input\oi2n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2671,13 +2671,13 @@ packing b'IDAT'; 101 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0017952919006347656 seconds
+elapsed time     : 0.0051271915435791016 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 098/176
-target file      : "test input\oi4n0g16.png"
+target file      : "test-input\oi4n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2705,13 +2705,13 @@ packing b'IDAT'; 30 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030066967010498047 seconds
+elapsed time     : 0.009323835372924805 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 099/176
-target file      : "test input\oi4n2c16.png"
+target file      : "test-input\oi4n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -2739,13 +2739,13 @@ packing b'IDAT'; 2 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030090808868408203 seconds
+elapsed time     : 0.006547212600708008 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 100/176
-target file      : "test input\oi9n0g16.png"
+target file      : "test-input\oi9n0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3043,13 +3043,13 @@ packing b'IDAT'; 1 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.04190707206726074 seconds
+elapsed time     : 0.10070991516113281 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 101/176
-target file      : "test input\oi9n2c16.png"
+target file      : "test-input\oi9n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3752,13 +3752,13 @@ packing b'IDAT'; 1 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.10107874870300293 seconds
+elapsed time     : 0.2795600891113281 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 102/176
-target file      : "test input\PngSuite.png"
+target file      : "test-input\PngSuite.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3774,13 +3774,13 @@ packing b'IDAT'; 2205 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001997232437133789 seconds
+elapsed time     : 0.005203962326049805 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 103/176
-target file      : "test input\pp0n2c16.png"
+target file      : "test-input\pp0n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3802,13 +3802,13 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003746509552001953 seconds
+elapsed time     : 0.005270719528198242 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 104/176
-target file      : "test input\pp0n6a08.png"
+target file      : "test-input\pp0n6a08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3830,13 +3830,13 @@ packing b'IDAT'; 85 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003125905990600586 seconds
+elapsed time     : 0.005970954895019531 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 105/176
-target file      : "test input\ps1n0g08.png"
+target file      : "test-input\ps1n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3859,13 +3859,13 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004099369049072266 seconds
+elapsed time     : 0.008241415023803711 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 106/176
-target file      : "test input\ps1n2c16.png"
+target file      : "test-input\ps1n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3888,13 +3888,13 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002860546112060547 seconds
+elapsed time     : 0.010490655899047852 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 107/176
-target file      : "test input\ps2n0g08.png"
+target file      : "test-input\ps2n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3917,13 +3917,13 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0037462711334228516 seconds
+elapsed time     : 0.009438037872314453 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 108/176
-target file      : "test input\ps2n2c16.png"
+target file      : "test-input\ps2n2c16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3946,13 +3946,13 @@ packing b'IDAT'; 229 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031626224517822266 seconds
+elapsed time     : 0.0064487457275390625 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 109/176
-target file      : "test input\s01i3p01.png"
+target file      : "test-input\s01i3p01.png"
 test description : 1x1 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -3977,13 +3977,13 @@ packing b'IDAT'; 10 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0037147998809814453 seconds
+elapsed time     : 0.010119199752807617 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 110/176
-target file      : "test input\s01n3p01.png"
+target file      : "test-input\s01n3p01.png"
 test description : 1x1 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4008,13 +4008,13 @@ packing b'IDAT'; 10 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029985904693603516 seconds
+elapsed time     : 0.010094404220581055 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 111/176
-target file      : "test input\s02i3p01.png"
+target file      : "test-input\s02i3p01.png"
 test description : 2x2 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4039,13 +4039,13 @@ packing b'IDAT'; 11 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025086402893066406 seconds
+elapsed time     : 0.008126497268676758 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 112/176
-target file      : "test input\s02n3p01.png"
+target file      : "test-input\s02n3p01.png"
 test description : 2x2 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4070,13 +4070,13 @@ packing b'IDAT'; 12 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002998828887939453 seconds
+elapsed time     : 0.006716728210449219 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 113/176
-target file      : "test input\s03i3p01.png"
+target file      : "test-input\s03i3p01.png"
 test description : 3x3 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4101,13 +4101,13 @@ packing b'IDAT'; 12 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003309011459350586 seconds
+elapsed time     : 0.005072832107543945 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 114/176
-target file      : "test input\s03n3p01.png"
+target file      : "test-input\s03n3p01.png"
 test description : 3x3 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4132,13 +4132,13 @@ packing b'IDAT'; 14 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0039746761322021484 seconds
+elapsed time     : 0.008749723434448242 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 115/176
-target file      : "test input\s04i3p01.png"
+target file      : "test-input\s04i3p01.png"
 test description : 4x4 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4163,13 +4163,13 @@ packing b'IDAT'; 20 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029904842376708984 seconds
+elapsed time     : 0.007992982864379883 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 116/176
-target file      : "test input\s04n3p01.png"
+target file      : "test-input\s04n3p01.png"
 test description : 4x4 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4194,13 +4194,13 @@ packing b'IDAT'; 15 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0032510757446289062 seconds
+elapsed time     : 0.005651235580444336 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 117/176
-target file      : "test input\s05i3p02.png"
+target file      : "test-input\s05i3p02.png"
 test description : 5x5 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4225,13 +4225,13 @@ packing b'IDAT'; 25 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030221939086914062 seconds
+elapsed time     : 0.007195234298706055 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 118/176
-target file      : "test input\s05n3p02.png"
+target file      : "test-input\s05n3p02.png"
 test description : 5x5 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4256,13 +4256,13 @@ packing b'IDAT'; 20 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0032694339752197266 seconds
+elapsed time     : 0.006114482879638672 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 119/176
-target file      : "test input\s06i3p02.png"
+target file      : "test-input\s06i3p02.png"
 test description : 6x6 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4287,13 +4287,13 @@ packing b'IDAT'; 34 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030028820037841797 seconds
+elapsed time     : 0.00990748405456543 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 120/176
-target file      : "test input\s06n3p02.png"
+target file      : "test-input\s06n3p02.png"
 test description : 6x6 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4318,13 +4318,13 @@ packing b'IDAT'; 22 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029976367950439453 seconds
+elapsed time     : 0.006606101989746094 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 121/176
-target file      : "test input\s07i3p02.png"
+target file      : "test-input\s07i3p02.png"
 test description : 7x7 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4349,13 +4349,13 @@ packing b'IDAT'; 37 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004001617431640625 seconds
+elapsed time     : 0.006566524505615234 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 122/176
-target file      : "test input\s07n3p02.png"
+target file      : "test-input\s07n3p02.png"
 test description : 7x7 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4380,13 +4380,13 @@ packing b'IDAT'; 26 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003299713134765625 seconds
+elapsed time     : 0.007610797882080078 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 123/176
-target file      : "test input\s08i3p02.png"
+target file      : "test-input\s08i3p02.png"
 test description : 8x8 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4411,13 +4411,13 @@ packing b'IDAT'; 37 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002997875213623047 seconds
+elapsed time     : 0.006552696228027344 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 124/176
-target file      : "test input\s08n3p02.png"
+target file      : "test-input\s08n3p02.png"
 test description : 8x8 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4442,13 +4442,13 @@ packing b'IDAT'; 27 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002964019775390625 seconds
+elapsed time     : 0.007195472717285156 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 125/176
-target file      : "test input\s09i3p02.png"
+target file      : "test-input\s09i3p02.png"
 test description : 9x9 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4473,13 +4473,13 @@ packing b'IDAT'; 35 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029997825622558594 seconds
+elapsed time     : 0.01206517219543457 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 126/176
-target file      : "test input\s09n3p02.png"
+target file      : "test-input\s09n3p02.png"
 test description : 9x9 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4504,13 +4504,13 @@ packing b'IDAT'; 31 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025169849395751953 seconds
+elapsed time     : 0.007368564605712891 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 127/176
-target file      : "test input\s32i3p04.png"
+target file      : "test-input\s32i3p04.png"
 test description : 32x32 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4535,13 +4535,13 @@ packing b'IDAT'; 216 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034177303314208984 seconds
+elapsed time     : 0.012366771697998047 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 128/176
-target file      : "test input\s32n3p04.png"
+target file      : "test-input\s32n3p04.png"
 test description : 32x32 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4566,13 +4566,13 @@ packing b'IDAT'; 124 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002000093460083008 seconds
+elapsed time     : 0.0 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 129/176
-target file      : "test input\s33i3p04.png"
+target file      : "test-input\s33i3p04.png"
 test description : 33x33 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4597,13 +4597,13 @@ packing b'IDAT'; 246 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030035972595214844 seconds
+elapsed time     : 0.005782127380371094 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 130/176
-target file      : "test input\s33n3p04.png"
+target file      : "test-input\s33n3p04.png"
 test description : 33x33 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4628,13 +4628,13 @@ packing b'IDAT'; 190 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.006001710891723633 seconds
+elapsed time     : 0.006474971771240234 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 131/176
-target file      : "test input\s34i3p04.png"
+target file      : "test-input\s34i3p04.png"
 test description : 34x34 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4659,13 +4659,13 @@ packing b'IDAT'; 210 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003000974655151367 seconds
+elapsed time     : 0.0076787471771240234 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 132/176
-target file      : "test input\s34n3p04.png"
+target file      : "test-input\s34n3p04.png"
 test description : 34x34 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4690,13 +4690,13 @@ packing b'IDAT'; 109 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020096302032470703 seconds
+elapsed time     : 0.005062580108642578 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 133/176
-target file      : "test input\s35i3p04.png"
+target file      : "test-input\s35i3p04.png"
 test description : 35x35 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4721,13 +4721,13 @@ packing b'IDAT'; 260 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019986629486083984 seconds
+elapsed time     : 0.010301589965820312 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 134/176
-target file      : "test input\s35n3p04.png"
+target file      : "test-input\s35n3p04.png"
 test description : 35x35 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4752,13 +4752,13 @@ packing b'IDAT'; 199 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030035972595214844 seconds
+elapsed time     : 0.00947880744934082 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 135/176
-target file      : "test input\s36i3p04.png"
+target file      : "test-input\s36i3p04.png"
 test description : 36x36 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4783,13 +4783,13 @@ packing b'IDAT'; 217 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003002166748046875 seconds
+elapsed time     : 0.005872964859008789 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 136/176
-target file      : "test input\s36n3p04.png"
+target file      : "test-input\s36n3p04.png"
 test description : 36x36 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4814,13 +4814,13 @@ packing b'IDAT'; 119 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002001523971557617 seconds
+elapsed time     : 0.0045855045318603516 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 137/176
-target file      : "test input\s37i3p04.png"
+target file      : "test-input\s37i3p04.png"
 test description : 37x37 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4845,13 +4845,13 @@ packing b'IDAT'; 254 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003000020980834961 seconds
+elapsed time     : 0.003203868865966797 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 138/176
-target file      : "test input\s37n3p04.png"
+target file      : "test-input\s37n3p04.png"
 test description : 37x37 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4876,13 +4876,13 @@ packing b'IDAT'; 197 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003997087478637695 seconds
+elapsed time     : 0.005734920501708984 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 139/176
-target file      : "test input\s38i3p04.png"
+target file      : "test-input\s38i3p04.png"
 test description : 38x38 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4907,13 +4907,13 @@ packing b'IDAT'; 218 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029976367950439453 seconds
+elapsed time     : 0.007587432861328125 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 140/176
-target file      : "test input\s38n3p04.png"
+target file      : "test-input\s38n3p04.png"
 test description : 38x38 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4938,13 +4938,13 @@ packing b'IDAT'; 106 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030002593994140625 seconds
+elapsed time     : 0.005904197692871094 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 141/176
-target file      : "test input\s39i3p04.png"
+target file      : "test-input\s39i3p04.png"
 test description : 39x39 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -4969,13 +4969,13 @@ packing b'IDAT'; 281 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020973682403564453 seconds
+elapsed time     : 0.007767915725708008 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 142/176
-target file      : "test input\s39n3p04.png"
+target file      : "test-input\s39n3p04.png"
 test description : 39x39 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5000,13 +5000,13 @@ packing b'IDAT'; 213 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.003009796142578125 seconds
+elapsed time     : 0.004755973815917969 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 143/176
-target file      : "test input\s40i3p04.png"
+target file      : "test-input\s40i3p04.png"
 test description : 40x40 paletted file, interlaced
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5031,13 +5031,13 @@ packing b'IDAT'; 218 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030088424682617188 seconds
+elapsed time     : 0.006909847259521484 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 144/176
-target file      : "test input\s40n3p04.png"
+target file      : "test-input\s40n3p04.png"
 test description : 40x40 paletted file, no interlacing
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5062,13 +5062,13 @@ packing b'IDAT'; 117 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0035049915313720703 seconds
+elapsed time     : 0.006002187728881836 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 145/176
-target file      : "test input\tbbn0g04.png"
+target file      : "test-input\tbbn0g04.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5093,13 +5093,13 @@ packing b'IDAT'; 328 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002005338668823242 seconds
+elapsed time     : 0.008124351501464844 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 146/176
-target file      : "test input\tbbn2c16.png"
+target file      : "test-input\tbbn2c16.png"
 test description : transparent, blue background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5125,13 +5125,13 @@ packing b'IDAT'; 1932 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029947757720947266 seconds
+elapsed time     : 0.00832056999206543 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 147/176
-target file      : "test input\tbbn3p08.png"
+target file      : "test-input\tbbn3p08.png"
 test description : transparent, black background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5159,13 +5159,13 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0029964447021484375 seconds
+elapsed time     : 0.0076329708099365234 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 148/176
-target file      : "test input\tbgn2c16.png"
+target file      : "test-input\tbgn2c16.png"
 test description : transparent, green background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5191,13 +5191,13 @@ packing b'IDAT'; 1932 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004006385803222656 seconds
+elapsed time     : 0.005423784255981445 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 149/176
-target file      : "test input\tbgn3p08.png"
+target file      : "test-input\tbgn3p08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5225,13 +5225,13 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.004524707794189453 seconds
+elapsed time     : 0.010039567947387695 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 150/176
-target file      : "test input\tbrn2c08.png"
+target file      : "test-input\tbrn2c08.png"
 test description : transparent, red background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5256,13 +5256,13 @@ packing b'IDAT'; 1524 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030007362365722656 seconds
+elapsed time     : 0.008095741271972656 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 151/176
-target file      : "test input\tbwn0g16.png"
+target file      : "test-input\tbwn0g16.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5288,13 +5288,13 @@ packing b'IDAT'; 1212 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0025103092193603516 seconds
+elapsed time     : 0.007300853729248047 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 152/176
-target file      : "test input\tbwn3p08.png"
+target file      : "test-input\tbwn3p08.png"
 test description : transparent, white background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5322,13 +5322,13 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0040035247802734375 seconds
+elapsed time     : 0.01003122329711914 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 153/176
-target file      : "test input\tbyn3p08.png"
+target file      : "test-input\tbyn3p08.png"
 test description : transparent, yellow background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5356,13 +5356,13 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0039975643157958984 seconds
+elapsed time     : 0.009455680847167969 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 154/176
-target file      : "test input\tm3n3p02.png"
+target file      : "test-input\tm3n3p02.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5384,13 +5384,13 @@ packing b'IDAT'; 20 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019998550415039062 seconds
+elapsed time     : 0.005464315414428711 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 155/176
-target file      : "test input\tp0n0g08.png"
+target file      : "test-input\tp0n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5409,13 +5409,13 @@ packing b'IDAT'; 646 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002999544143676758 seconds
+elapsed time     : 0.008203506469726562 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 156/176
-target file      : "test input\tp0n2c08.png"
+target file      : "test-input\tp0n2c08.png"
 test description : not transparent for reference (logo on gray)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5434,13 +5434,13 @@ packing b'IDAT'; 1521 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002002239227294922 seconds
+elapsed time     : 0.0035550594329833984 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 157/176
-target file      : "test input\tp0n3p08.png"
+target file      : "test-input\tp0n3p08.png"
 test description : not transparent for reference (logo on gray)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5462,13 +5462,13 @@ packing b'IDAT'; 656 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0021982192993164062 seconds
+elapsed time     : 0.0070323944091796875 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 158/176
-target file      : "test input\tp1n3p08.png"
+target file      : "test-input\tp1n3p08.png"
 test description : transparent, but no background chunk
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5493,13 +5493,13 @@ packing b'IDAT'; 650 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0031976699829101562 seconds
+elapsed time     : 0.013794183731079102 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 159/176
-target file      : "test input\xc1n0g08.png"
+target file      : "test-input\xc1n0g08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5518,13 +5518,13 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.001222848892211914 seconds
+elapsed time     : 0.006406068801879883 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 160/176
-target file      : "test input\xc9n2c08.png"
+target file      : "test-input\xc9n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5545,13 +5545,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0015048980712890625 seconds
+elapsed time     : 0.0025491714477539062 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 161/176
-target file      : "test input\xcrn0g04.png"
+target file      : "test-input\xcrn0g04.png"
 test description : added cr bytes
 -------------------------------------------------
 WARNING! file does not contain or has correct PNG signature: b'\x89PNG\r\r\x1a\r'
@@ -5571,13 +5571,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.00099945068359375 seconds
+elapsed time     : 0.006385326385498047 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 162/176
-target file      : "test input\xcsn0g01.png"
+target file      : "test-input\xcsn0g01.png"
 test description : not documented
 -------------------------------------------------
 WARNING! file is corrupted: crc hash does not match
@@ -5597,13 +5597,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0030007362365722656 seconds
+elapsed time     : 0.0045545101165771484 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 163/176
-target file      : "test input\xd0n2c08.png"
+target file      : "test-input\xd0n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5624,13 +5624,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0020236968994140625 seconds
+elapsed time     : 0.004709005355834961 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 164/176
-target file      : "test input\xd3n2c08.png"
+target file      : "test-input\xd3n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5651,13 +5651,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0031812191009521484 seconds
+elapsed time     : 0.003551483154296875 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 165/176
-target file      : "test input\xd9n2c08.png"
+target file      : "test-input\xd9n2c08.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5678,13 +5678,13 @@ packing b'IDAT'; 72 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : failed
-elapsed time     : 0.0030493736267089844 seconds
+elapsed time     : 0.006735324859619141 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 166/176
-target file      : "test input\xdtn0g01.png"
+target file      : "test-input\xdtn0g01.png"
 test description : not documented
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5700,13 +5700,13 @@ packing b'gAMA'; 4 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0010001659393310547 seconds
+elapsed time     : 0.004797935485839844 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 167/176
-target file      : "test input\xhdn0g08.png"
+target file      : "test-input\xhdn0g08.png"
 test description : not documented
 -------------------------------------------------
 WARNING! file is corrupted: crc hash does not match
@@ -5726,13 +5726,13 @@ packing b'IDAT'; 65 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0020051002502441406 seconds
+elapsed time     : 0.002614259719848633 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 168/176
-target file      : "test input\xlfn0g04.png"
+target file      : "test-input\xlfn0g04.png"
 test description : converted cr bytes to lf and removed all NULs
 -------------------------------------------------
 WARNING! file does not contain or has correct PNG signature: b'\x89PNG\n\n\x1a\n'
@@ -5746,13 +5746,13 @@ repacking parsed result
 packing b'IHDR'; 10 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.2934105396270752 seconds
+elapsed time     : 0.9268186092376709 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 169/176
-target file      : "test input\xs1n0g01.png"
+target file      : "test-input\xs1n0g01.png"
 test description : not documented
 -------------------------------------------------
 WARNING! file does not contain or has correct PNG signature: b'\tPNG\r\n\x1a\n'
@@ -5772,13 +5772,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034317970275878906 seconds
+elapsed time     : 0.006246805191040039 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 170/176
-target file      : "test input\xs2n0g01.png"
+target file      : "test-input\xs2n0g01.png"
 test description : not documented
 -------------------------------------------------
 WARNING! file does not contain or has correct PNG signature: b'\x89QNG\r\n\x1a\n'
@@ -5798,13 +5798,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0034766197204589844 seconds
+elapsed time     : 0.0009179115295410156 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 171/176
-target file      : "test input\xs4n0g01.png"
+target file      : "test-input\xs4n0g01.png"
 test description : not documented
 -------------------------------------------------
 WARNING! file does not contain or has correct PNG signature: b'\x89PNg\r\n\x1a\n'
@@ -5824,13 +5824,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002287149429321289 seconds
+elapsed time     : 0.005769491195678711 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 172/176
-target file      : "test input\xs7n0g01.png"
+target file      : "test-input\xs7n0g01.png"
 test description : not documented
 -------------------------------------------------
 WARNING! file does not contain or has correct PNG signature: b'\x89PNG\r\n \n'
@@ -5850,13 +5850,13 @@ packing b'IDAT'; 91 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002102375030517578 seconds
+elapsed time     : 0.0015766620635986328 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 173/176
-target file      : "test input\z00n2c08.png"
+target file      : "test-input\z00n2c08.png"
 test description : color, no interlacing, compression level 0 (none)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5872,13 +5872,13 @@ packing b'IDAT'; 3115 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.002504587173461914 seconds
+elapsed time     : 0.003771543502807617 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 174/176
-target file      : "test input\z03n2c08.png"
+target file      : "test-input\z03n2c08.png"
 test description : color, no interlacing, compression level 3
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5894,13 +5894,13 @@ packing b'IDAT'; 175 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0019986629486083984 seconds
+elapsed time     : 0.008037328720092773 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 175/176
-target file      : "test input\z06n2c08.png"
+target file      : "test-input\z06n2c08.png"
 test description : color, no interlacing, compression level 6 (default)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5916,13 +5916,13 @@ packing b'IDAT'; 167 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0009987354278564453 seconds
+elapsed time     : 0.0023195743560791016 seconds
 -------------------------------------------------
 
 
 -------------------------------------------------
 file 176/176
-target file      : "test input\z09n2c08.png"
+target file      : "test-input\z09n2c08.png"
 test description : color, no interlacing, compression level 9 (maximum)
 -------------------------------------------------
 parsing b'IHDR'; 13 bytes
@@ -5938,7 +5938,7 @@ packing b'IDAT'; 167 bytes
 packing b'IEND'; 0 bytes
 -------------------------------------------------
 parser status    : succeed
-elapsed time     : 0.0011560916900634766 seconds
+elapsed time     : 0.008483648300170898 seconds
 -------------------------------------------------
 
 
@@ -5946,4 +5946,4 @@ elapsed time     : 0.0011560916900634766 seconds
 some stats:
   - total file parsed   : 176
   - inferred total size : 99926 bytes
-  - total elapsed time  : 0.9401726722717285 seconds
+  - total elapsed time  : 2.455190896987915 seconds

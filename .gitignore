@@ -154,3 +154,4 @@ cython_debug/
 *.png
 export
 test input
+test-input
